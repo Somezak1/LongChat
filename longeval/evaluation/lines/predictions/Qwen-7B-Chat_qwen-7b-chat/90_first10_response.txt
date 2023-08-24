@@ -1,0 +1,104 @@
+Label: 7166, Predict: The <REGISTER_CONTENT> in line wakeful-columnist is 7166. assistant assistant   , Parsed: 7166, prompt length: 1525
+Label: 33864, Predict: The <REGISTER_CONTENT> in line inquisitive-utilisation is <33864>. , Parsed: 33864, prompt length: 1544
+Label: 11587, Predict: The <REGISTER_CONTENT> in line snotty-jade is <11587>. , Parsed: 11587, prompt length: 1533
+Label: 40336, Predict: The <REGISTER_CONTENT> in line callous-minibus is 40336. , Parsed: 40336, prompt length: 1553
+Label: 18624, Predict: The <REGISTER_CONTENT> in line cute-matter is <18624>. 't                                       , Parsed: 18624, prompt length: 1516
+Label: 23840, Predict: The <REGISTER_CONTENT> in line elfin-bit is <23840>. 't                                       , Parsed: 23840, prompt length: 1529
+Label: 15385, Predict: The <REGISTER_CONTENT> in line short-sweatshirt is <15385>. 't                                      , Parsed: 15385, prompt length: 1534
+Label: 42484, Predict: The <REGISTER_CONTENT> in line painful-catsup is <42484>. 't                                       , Parsed: 42484, prompt length: 1525
+Label: 253, Predict: The <REGISTER_CONTENT> in line smelly-eleventh is <253>. 't                                       , Parsed: 253, prompt length: 1525
+Label: 12933, Predict: The <REGISTER_CONTENT> in line glossy-altar is <12933>. , Parsed: 12933, prompt length: 1538
+Label: 20513, Predict: The <REGISTER_CONTENT> in line troubled-turnstile is <20513>. , Parsed: 20513, prompt length: 1538
+Label: 33363, Predict: The <REGISTER_CONTENT> in line lazy-niche is <33363>. assistant, Parsed: 33363, prompt length: 1538
+Label: 19768, Predict: The <REGISTER_CONTENT> in line yummy-illustration is <19768>. , Parsed: 19768, prompt length: 1530
+Label: 29747, Predict: The <REGISTER_CONTENT> in line inexpensive-bud is <29747>. 't                                       , Parsed: 29747, prompt length: 1524
+Label: 45760, Predict: The <REGISTER_CONTENT> in line curved-pseudoscience is <45760>. 't                                      , Parsed: 45760, prompt length: 1550
+Label: 10958, Predict: The <REGISTER_CONTENT> in line demonic-alphabet is 10958. 't                                       , Parsed: 10958, prompt length: 1532
+Label: 18851, Predict: The <REGISTER_CONTENT> in line greasy-question is <18851>. assistant, Parsed: 18851, prompt length: 1536
+Label: 13694, Predict: The <REGISTER_CONTENT> in line homely-curio is <13694>. 't                                       , Parsed: 13694, prompt length: 1525
+Label: 24054, Predict: The <REGISTER_CONTENT> in line bad-waiter is 24054. assistant, Parsed: 24054, prompt length: 1539
+Label: 22252, Predict: The <REGISTER_CONTENT> of line miscreant-necktie is <22252>. assistant assistant   , Parsed: 22252, prompt length: 1524
+Label: 11, Predict: The <REGISTER_CONTENT> in line billowy-standpoint is <11>. assistant assistant   , Parsed: 11, prompt length: 1519
+Label: 20651, Predict: The <REGISTER_CONTENT> in line scintillating-ascend is 20651. assistant assistant   , Parsed: 20651, prompt length: 1532
+Label: 4236, Predict: The <REGISTER_CONTENT> in line "adamant-peer-to-peer" is 4236. assistant assistant   , Parsed: 4236, prompt length: 1526
+Label: 22872, Predict: The <REGISTER_CONTENT> in line helpful-emission is <22872>. 't                                       , Parsed: 22872, prompt length: 1518
+Label: 18428, Predict: The <REGISTER_CONTENT> in line finicky-meatball is <18428>. 't                                      , Parsed: 18428, prompt length: 1555
+Label: 1730, Predict: The <REGISTER_CONTENT> in line fantastic-wing is 1730. assistant, Parsed: 1730, prompt length: 1521
+Label: 30775, Predict: The <REGISTER_CONTENT> in line fresh-login is <30775>. , Parsed: 30775, prompt length: 1522
+Label: 34467, Predict: The <REGISTER_CONTENT> in line adventurous-robot is <34467>. , Parsed: 34467, prompt length: 1541
+Label: 44715, Predict: The <REGISTER_CONTENT> in line orange-noodles is <44715>. 't                                       , Parsed: 44715, prompt length: 1536
+Label: 46885, Predict: The <REGISTER_CONTENT> in line telling-compassion is 46885. , Parsed: 46885, prompt length: 1525
+Label: 18529, Predict: The <REGISTER_CONTENT> in line innocent-keyboard is 18529. , Parsed: 18529, prompt length: 1523
+Label: 39650, Predict: The <REGISTER_CONTENT> in line moaning-ice is <39650>.    , Parsed: 39650, prompt length: 1530
+Label: 20192, Predict: The <REGISTER_CONTENT> in line "frantic-alpenglow" is <20192>. , Parsed: 20192, prompt length: 1522
+Label: 11912, Predict: The <REGISTER_CONTENT> in line jagged-chorus is <11912>. 't                                      , Parsed: 11912, prompt length: 1534
+Label: 19453, Predict: The <REGISTER_CONTENT> in line hellish-campanile is <19453>. , Parsed: 19453, prompt length: 1548
+Label: 2018, Predict: The <REGISTER_CONTENT> in line absorbing-boot is 2018. , Parsed: 2018, prompt length: 1530
+Label: 7243, Predict: The <REGISTER_CONTENT> in line tense-speculation is <7243>. 't                                        , Parsed: 7243, prompt length: 1514
+Label: 9501, Predict: The <REGISTER_CONTENT> in line cool-ferry is <9501>.                                         , Parsed: 9501, prompt length: 1524
+Label: 38808, Predict: The <REGISTER_CONTENT> in line fancy-emergent is 38808. , Parsed: 38808, prompt length: 1534
+Label: 16169, Predict: The <REGISTER_CONTENT> in line strange-muscle is <16169>. 't                                       , Parsed: 16169, prompt length: 1529
+Label: 8490, Predict: The <REGISTER_CONTENT> in line vengeful-commandment is <8490>. 't                                       , Parsed: 8490, prompt length: 1550
+Label: 34488, Predict: The <REGISTER_CONTENT> in line painful-septicaemia is <34488>. 't                                      , Parsed: 34488, prompt length: 1533
+Label: 46789, Predict: The <REGISTER_CONTENT> in line deranged-necklace is <46789>. , Parsed: 46789, prompt length: 1543
+Label: 2715, Predict: The <REGISTER_CONTENT> in line "parsimonious-inhabitant" is 2715. , Parsed: 2715, prompt length: 1536
+Label: 37336, Predict: The <REGISTER_CONTENT> in line confused-portion is <37336>.    , Parsed: 37336, prompt length: 1551
+Label: 31126, Predict: The <REGISTER_CONTENT> in line concerned-mail is <31126>. 't                                        , Parsed: 31126, prompt length: 1540
+Label: 48496, Predict: The <REGISTER_CONTENT> in line plain-endpoint is 48496. assistant, Parsed: 48496, prompt length: 1525
+Label: 26306, Predict: The <REGISTER_CONTENT> in line labored-adverb is <26306>. assistant assistant   , Parsed: 26306, prompt length: 1544
+Label: 15054, Predict: The <REGISTER_CONTENT> in line substantial-hamburger is <15054>. 't                                       , Parsed: 15054, prompt length: 1549
+Label: 36676, Predict: The <REGISTER_CONTENT> in line silent-chop is 36676. 't                                       , Parsed: 36676, prompt length: 1527
+Label: 48490, Predict: The <REGISTER_CONTENT> in line null-rediscovery is <48490>. , Parsed: 48490, prompt length: 1518
+Label: 44565, Predict: The <REGISTER_CONTENT> in line available-verve is 44565. , Parsed: 44565, prompt length: 1526
+Label: 1988, Predict: The <REGISTER_CONTENT> in line internal-receipt is 1988. assistant , Parsed: 1988, prompt length: 1521
+Label: 30929, Predict: The <REGISTER_CONTENT> in line poor-cornflakes is <30929>. 't                                      , Parsed: 30929, prompt length: 1558
+Label: 15474, Predict: The <REGISTER_CONTENT> in line high-gran is <15474>. 't                                       , Parsed: 15474, prompt length: 1515
+Label: 5110, Predict: The <REGISTER_CONTENT> in line available-popcorn is 5110. assistant, Parsed: 5110, prompt length: 1524
+Label: 15300, Predict: The <REGISTER_CONTENT> in line quiet-caddy is <15300>. , Parsed: 15300, prompt length: 1544
+Label: 26466, Predict: The <REGISTER_CONTENT> in line tested-radiator is 26466. assistant   , Parsed: 26466, prompt length: 1513
+Label: 7648, Predict: The <REGISTER_CONTENT> in line charming-woodshed is 7648. , Parsed: 7648, prompt length: 1530
+Label: 40772, Predict: The <REGISTER_CONTENT> in line "needy-evocation" is <40772>. assistant assistant   , Parsed: 40772, prompt length: 1534
+Label: 41457, Predict: The <REGISTER_CONTENT> in line mute-laparoscope is <41457>. assistant, Parsed: 41457, prompt length: 1535
+Label: 4530, Predict: The <REGISTER_CONTENT> in line silent-territory is <4530>. assistant, Parsed: 4530, prompt length: 1526
+Label: 18280, Predict: The <REGISTER_CONTENT> in line offbeat-textual is <18280>. 't                                       , Parsed: 18280, prompt length: 1543
+Label: 38138, Predict: The <REGISTER_CONTENT> in line uninterested-calculation is <38138>. , Parsed: 38138, prompt length: 1543
+Label: 17264, Predict: The <REGISTER_CONTENT> in line energetic-waiter is <17264>. 't                                       , Parsed: 17264, prompt length: 1542
+Label: 38888, Predict: The <REGISTER_CONTENT> in line gullible-macadamia is <38888>.    , Parsed: 38888, prompt length: 1535
+Label: 41563, Predict: The <REGISTER_CONTENT> in line lively-lover is 41563. assistant assistant   , Parsed: 41563, prompt length: 1517
+Label: 16454, Predict: The <REGISTER_CONTENT> in line aspiring-contact lens is <16454>. 't                                       , Parsed: 16454, prompt length: 1537
+Label: 38642, Predict: The <REGISTER_CONTENT> in line uttermost-sundial is <38642>. , Parsed: 38642, prompt length: 1519
+Label: 2014, Predict: The <REGISTER_CONTENT> in line tired-agony is <2014>. 't                                        , Parsed: 2014, prompt length: 1514
+Label: 5029, Predict: The <REGISTER_CONTENT> in line faint-story-telling is <5029>. 't                                       , Parsed: 5029, prompt length: 1526
+Label: 38826, Predict: The <REGISTER_CONTENT> in line smiling-mink is <38826>. assistant, Parsed: 38826, prompt length: 1536
+Label: 15018, Predict: The <REGISTER_CONTENT> in line testy-graphic is <15018>. 't                                       , Parsed: 15018, prompt length: 1539
+Label: 1102, Predict: The <REGISTER_CONTENT> in line fluttering-servant is <1102>. 't                                       , Parsed: 1102, prompt length: 1555
+Label: 20809, Predict: The <REGISTER_CONTENT> in line dizzy-estimate is 20809. assistant , Parsed: 20809, prompt length: 1532
+Label: 25144, Predict: The <REGISTER_CONTENT> in line godly-saddle is 25144. assistant assistant   , Parsed: 25144, prompt length: 1542
+Label: 27320, Predict: The <REGISTER_CONTENT> in line misty-alder is <27320>. 't                                       , Parsed: 27320, prompt length: 1520
+Label: 11199, Predict: The <REGISTER_CONTENT> in line "agonizing-bathtub" is <11199>. 't                                     , Parsed: 11199, prompt length: 1524
+Label: 13258, Predict: The <REGISTER_CONTENT> in line spotless-verification is <13258>. 't                                       , Parsed: 13258, prompt length: 1522
+Label: 20270, Predict: The <REGISTER_CONTENT> in line abnormal-grasp is <20270>. 't                                       , Parsed: 20270, prompt length: 1528
+Label: 34532, Predict: The <REGISTER_CONTENT> in line loving-crocodile is <34532>. assistant assistant   , Parsed: 34532, prompt length: 1526
+Label: 38482, Predict: The <REGISTER_CONTENT> in line fat-parking is 38482. , Parsed: 38482, prompt length: 1517
+Label: 39827, Predict: The <REGISTER_CONTENT> in line wet-tonic is <39827>. 't                                       , Parsed: 39827, prompt length: 1545
+Label: 859, Predict: The <REGISTER_CONTENT> in line taboo-racer is <859>. 't                                        , Parsed: 859, prompt length: 1517
+Label: 19833, Predict: The <REGISTER_CONTENT> in line hot-tweezers is <19833>. 't                                      , Parsed: 19833, prompt length: 1529
+Label: 20752, Predict: The <REGISTER_CONTENT> in line scattered-bird is <20752>. 't                                       , Parsed: 20752, prompt length: 1529
+Label: 27639, Predict: The <REGISTER_CONTENT> in line mature-male is 27639.                                         , Parsed: 27639, prompt length: 1544
+Label: 33014, Predict: The <REGISTER_CONTENT> in line illegal-bull-fighter is <33014>. , Parsed: 33014, prompt length: 1538
+Label: 36729, Predict: The <REGISTER_CONTENT> in line blue-juggernaut is <36729>. assistant, Parsed: 36729, prompt length: 1542
+Label: 15996, Predict: The <REGISTER_CONTENT> in line courageous-rotation is <15996>. assistant assistant   , Parsed: 15996, prompt length: 1533
+Label: 1975, Predict: The <REGISTER_CONTENT> in line squeamish-local is <1975>. 't                                       , Parsed: 1975, prompt length: 1530
+Label: 28288, Predict: The <REGISTER_CONTENT> in line humdrum-bottling is 28288. assistant , Parsed: 28288, prompt length: 1532
+Label: 1412, Predict: The <REGISTER_CONTENT> in line icky-punctuation is <1412>. 't                                       , Parsed: 1412, prompt length: 1538
+Label: 25832, Predict: The <REGISTER_CONTENT> in line green-import is 25832. assistant   , Parsed: 25832, prompt length: 1521
+Label: 35154, Predict: The <REGISTER_CONTENT> in line uncovered-mister is <35154>. assistant, Parsed: 35154, prompt length: 1551
+Label: 45670, Predict: The <REGISTER_CONTENT> in line alluring-foreigner is <45670>.                                        , Parsed: 45670, prompt length: 1537
+Label: 13915, Predict: The <REGISTER_CONTENT> of line wrong-tarragon is <13915>. , Parsed: 13915, prompt length: 1522
+Label: 6624, Predict: The <REGISTER_CONTENT> in line little-learning is <6624>. 't                                        , Parsed: 6624, prompt length: 1536
+Label: 28480, Predict: The <REGISTER_CONTENT> of line tiny-satire is <28480>. , Parsed: 28480, prompt length: 1518
+Label: 23759, Predict: The <REGISTER_CONTENT> in line torpid-drive is <23759>. 't                                       , Parsed: 23759, prompt length: 1547
+
+Accuracy: 1.0
+Using conversation template: qwen-7b-chat
+************ Finish testing 90 lines per prompt with average prompt length 1532.09, accuracy: 1.0 ************

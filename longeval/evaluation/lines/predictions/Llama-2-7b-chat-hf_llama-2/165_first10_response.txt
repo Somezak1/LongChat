@@ -1,0 +1,104 @@
+Label: 26647, Predict:  Of course! I'd be happy to help you retrieve the <REGISTER_CONTENT> value for line cultured-cloakroom. The <REGISTER_CONTENT> value for this line is 981., Parsed: 981, prompt length: 3979
+Label: 30082, Predict:  Of course! The <REGISTER_CONTENT> in line "hallowed-dud" is 30082., Parsed: 30082, prompt length: 3956
+Label: 38439, Predict:  Of course! The <REGISTER_CONTENT> in line lackadaisical-cummerbund is 49528., Parsed: 49528, prompt length: 3974
+Label: 30658, Predict:  Of course! The <REGISTER_CONTENT> in line helpful-dollar is 13099., Parsed: 13099, prompt length: 3990
+Label: 17560, Predict:  Of course! The <REGISTER_CONTENT> in line rhetorical-prizefight is 36612., Parsed: 36612, prompt length: 3997
+Label: 25857, Predict:  Of course! The <REGISTER_CONTENT> in line tangible-motorboat is 25857., Parsed: 25857, prompt length: 3994
+Label: 38267, Predict:  Of course! The <REGISTER_CONTENT> in line disgusted-apartment is 4115., Parsed: 4115, prompt length: 3975
+Label: 20939, Predict:  Of course! I'm happy to help you. The <REGISTER_CONTENT> in line unaccountable-refund is 20939., Parsed: 20939, prompt length: 4000
+Label: 18585, Predict:  Of course! The <REGISTER_CONTENT> in line ablaze-nestling is 24752., Parsed: 24752, prompt length: 3991
+Label: 46297, Predict:  Of course! The <REGISTER_CONTENT> in line swanky-suspect is 46297., Parsed: 46297, prompt length: 3971
+Label: 16002, Predict:  Of course! I can help you with that. The <REGISTER_CONTENT> in line depressed-thesis is 16002., Parsed: 16002, prompt length: 3969
+Label: 5347, Predict:  Of course! The <REGISTER_CONTENT> in line shaggy-beating is 5347., Parsed: 5347, prompt length: 3981
+Label: 37390, Predict:  Of course! The <REGISTER_CONTENT> in line coherent-fabric is 37121., Parsed: 37121, prompt length: 3981
+Label: 1531, Predict:  Of course! The <REGISTER_CONTENT> in line capable-polarisation is 1531., Parsed: 1531, prompt length: 3961
+Label: 10158, Predict:  Of course! The <REGISTER_CONTENT> in line tasteless-thousand is 10158., Parsed: 10158, prompt length: 3983
+Label: 22833, Predict:  Of course! The <REGISTER_CONTENT> in line panicky-recollection is 38838., Parsed: 38838, prompt length: 3980
+Label: 36108, Predict:  Of course! The <REGISTER_CONTENT> in line "flawless-overhead" is 18318., Parsed: 18318, prompt length: 3978
+Label: 35961, Predict:  Of course! The <REGISTER_CONTENT> in line observant-creature is 39904., Parsed: 39904, prompt length: 3986
+Label: 35339, Predict:  Of course! The <REGISTER_CONTENT> in line rich-shallows is 4526., Parsed: 4526, prompt length: 3964
+Label: 33409, Predict:  Of course! The <REGISTER_CONTENT> in line fascinated-fool is 38341., Parsed: 38341, prompt length: 3989
+Label: 28865, Predict:  Of course! The <REGISTER_CONTENT> in line "kaput-sculpture" is 28865., Parsed: 28865, prompt length: 3962
+Label: 38615, Predict:  Of course! The <REGISTER_CONTENT> in line healthy-grasp is 38615., Parsed: 38615, prompt length: 3984
+Label: 12707, Predict:  Of course! The <REGISTER_CONTENT> in line aberrant-tune-up is 12707., Parsed: 12707, prompt length: 3977
+Label: 2449, Predict:  Of course! The <REGISTER_CONTENT> in line spooky-noun is 2449., Parsed: 2449, prompt length: 3986
+Label: 14023, Predict:  Of course! The <REGISTER_CONTENT> in line heavenly-pig is 14023., Parsed: 14023, prompt length: 3942
+Label: 13212, Predict:  Of course! The <REGISTER_CONTENT> in line "divergent-dispute" is 13212., Parsed: 13212, prompt length: 3999
+Label: 23811, Predict:  Of course! The <REGISTER_CONTENT> in line miscreant-linkage is 18774., Parsed: 18774, prompt length: 3992
+Label: 1497, Predict:  Of course! The <REGISTER_CONTENT> in line thoughtless-clef is 6215., Parsed: 6215, prompt length: 3990
+Label: 21309, Predict:  Of course! The <REGISTER_CONTENT> in line powerful-saxophone is 13769., Parsed: 13769, prompt length: 4010
+Label: 26624, Predict:  Of course! The <REGISTER_CONTENT> in line periodic-thanks is 26624., Parsed: 26624, prompt length: 3969
+Label: 19973, Predict:  Of course! The <REGISTER_CONTENT> in line gentle-depressive is 20299., Parsed: 20299, prompt length: 3976
+Label: 20966, Predict:  Of course! The <REGISTER_CONTENT> in line acrid-clothing is 30272., Parsed: 30272, prompt length: 3968
+Label: 16028, Predict:  Of course! I'm happy to help you retrieve the <REGISTER_CONTENT> value for line fluttering-accountant. The <REGISTER_CONTENT> value for that line is 3177., Parsed: 3177, prompt length: 4018
+Label: 47625, Predict:  Of course! The <REGISTER_CONTENT> in line capable-tear is 47625., Parsed: 47625, prompt length: 3999
+Label: 24461, Predict:  Of course! The <REGISTER_CONTENT> in line obscene-composite is 24461., Parsed: 24461, prompt length: 3932
+Label: 43626, Predict:  Of course! The <REGISTER_CONTENT> in line makeshift-processor is 43626., Parsed: 43626, prompt length: 3992
+Label: 21132, Predict:  Of course! The <REGISTER_CONTENT> in line "cruel-hike" is 41196., Parsed: 41196, prompt length: 3978
+Label: 45539, Predict:  Of course! The <REGISTER_CONTENT> in line troubled-flugelhorn is 34301., Parsed: 34301, prompt length: 3988
+Label: 36772, Predict:  Of course! The <REGISTER_CONTENT> in line flowery-sibling is 46181., Parsed: 46181, prompt length: 3995
+Label: 42425, Predict:  Of course! I'm happy to help you retrieve the <REGISTER_CONTENT> value for line kind-governance. The <REGISTER_CONTENT> value for that line is 48569., Parsed: 48569, prompt length: 3980
+Label: 38143, Predict:  Of course! The <REGISTER_CONTENT> in line dynamic-wastebasket is 41539., Parsed: 41539, prompt length: 3985
+Label: 6416, Predict:  Of course! The <REGISTER_CONTENT> in line flashy-singer is 6416., Parsed: 6416, prompt length: 3975
+Label: 784, Predict:  Of course! The <REGISTER_CONTENT> in line cooperative-kielbasa is 784., Parsed: 784, prompt length: 3967
+Label: 27978, Predict:  Of course! The <REGISTER_CONTENT> in line elderly-gavel is 33941., Parsed: 33941, prompt length: 3965
+Label: 39973, Predict:  Of course! The <REGISTER_CONTENT> in line hissing-grocery is 39973., Parsed: 39973, prompt length: 3944
+Label: 48589, Predict:  Of course! The <REGISTER_CONTENT> in line uneven-conductor is 48589., Parsed: 48589, prompt length: 3967
+Label: 12066, Predict:  Of course! The <REGISTER_CONTENT> in line nervous-fledgling is 35008., Parsed: 35008, prompt length: 3989
+Label: 22313, Predict:  Of course! The <REGISTER_CONTENT> in line "overt-training" is 17775., Parsed: 17775, prompt length: 3973
+Label: 28535, Predict:  Of course! The <REGISTER_CONTENT> in line acoustic-galoshes is 28535., Parsed: 28535, prompt length: 3988
+Label: 48533, Predict:  Of course! The <REGISTER_CONTENT> in line "chilly-brood" is 43508., Parsed: 43508, prompt length: 3989
+Label: 8831, Predict:  Of course! The <REGISTER_CONTENT> in line aggressive-c-clamp is 8831., Parsed: 8831, prompt length: 3972
+Label: 22392, Predict:  Of course! The <REGISTER_CONTENT> in line teeny-rhinoceros is 10259., Parsed: 10259, prompt length: 3984
+Label: 3040, Predict:  Of course! The <REGISTER_CONTENT> in line helpful-trout is 41389., Parsed: 41389, prompt length: 3979
+Label: 29998, Predict:  Of course! I'm happy to help you retrieve the <REGISTER_CONTENT> for a specific line in the record. The <REGISTER_CONTENT> for line angry-wing is 9926., Parsed: 9926, prompt length: 3958
+Label: 5201, Predict:  Of course! The <REGISTER_CONTENT> in line ambitious-slime is 5070., Parsed: 5070, prompt length: 4011
+Label: 16668, Predict:  Of course! The <REGISTER_CONTENT> in line watery-soccer is 48400., Parsed: 48400, prompt length: 3968
+Label: 33431, Predict:  Of course! The <REGISTER_CONTENT> in line wild-jeep is 33431., Parsed: 33431, prompt length: 3969
+Label: 27830, Predict:  Of course! I'm happy to help. The <REGISTER_CONTENT> in line nostalgic-research is 26108., Parsed: 26108, prompt length: 3973
+Label: 14268, Predict:  Of course! The <REGISTER_CONTENT> in line lacking-total is 14268., Parsed: 14268, prompt length: 3996
+Label: 36209, Predict:  Of course! The <REGISTER_CONTENT> in line "ragged-spirit" is <16369>., Parsed: 16369, prompt length: 3975
+Label: 32937, Predict:  Of course! The <REGISTER_CONTENT> in line confused-pantology is 29926., Parsed: 29926, prompt length: 3956
+Label: 42599, Predict:  Of course! The <REGISTER_CONTENT> in line panoramic-ascot is 42599., Parsed: 42599, prompt length: 3979
+Label: 42113, Predict:  Of course! The <REGISTER_CONTENT> in line tenuous-advance is 46514., Parsed: 46514, prompt length: 3981
+Label: 36666, Predict:  Of course! The <REGISTER_CONTENT> in line observant-advent is 28492., Parsed: 28492, prompt length: 3991
+Label: 35244, Predict:  Of course! The <REGISTER_CONTENT> in line aback-lover is 8426., Parsed: 8426, prompt length: 3990
+Label: 6440, Predict:  Of course! I'm happy to help you. The <REGISTER_CONTENT> in line absurd-label is 6440., Parsed: 6440, prompt length: 3990
+Label: 10938, Predict:  Of course! The <REGISTER_CONTENT> in line obedient-form is 43074., Parsed: 43074, prompt length: 3984
+Label: 1291, Predict:  Of course! The <REGISTER_CONTENT> in line envious-wick is 20458., Parsed: 20458, prompt length: 3965
+Label: 2990, Predict:  Of course! The <REGISTER_CONTENT> in line "freezing-difference" is 2990., Parsed: 2990, prompt length: 3958
+Label: 15712, Predict:  Of course! I'm happy to help you. The <REGISTER_CONTENT> in line gabby-import is 15712., Parsed: 15712, prompt length: 3971
+Label: 21751, Predict:  Of course! I'm happy to help. The <REGISTER_CONTENT> in line dusty-lover is 14755., Parsed: 14755, prompt length: 3957
+Label: 48324, Predict:  Of course! The <REGISTER_CONTENT> in line level-collectivisation is 42373., Parsed: 42373, prompt length: 3983
+Label: 18099, Predict:  Of course! The <REGISTER_CONTENT> in line low-dancing is 23078., Parsed: 23078, prompt length: 3973
+Label: 2289, Predict:  Of course! The <REGISTER_CONTENT> in line evasive-apse is 2289., Parsed: 2289, prompt length: 3961
+Label: 32308, Predict:  Of course! I'm happy to help you. The <REGISTER_CONTENT> in line lying-curtailment is 30522., Parsed: 30522, prompt length: 3964
+Label: 5840, Predict:  Of course! The <REGISTER_CONTENT> in line gamy-connotation is 36170., Parsed: 36170, prompt length: 3982
+Label: 6475, Predict:  Of course! I'm happy to help you retrieve the <REGISTER_CONTENT> value for line erect-commitment. The <REGISTER_CONTENT> value for that line is 24038., Parsed: 24038, prompt length: 3989
+Label: 38769, Predict:  Of course! The <REGISTER_CONTENT> in line fast-hose is 38769., Parsed: 38769, prompt length: 3997
+Label: 37223, Predict:  Of course! The <REGISTER_CONTENT> in line feigned-cosset is 37223., Parsed: 37223, prompt length: 3967
+Label: 6506, Predict:  Of course! The <REGISTER_CONTENT> in line hollow-ram is 6506., Parsed: 6506, prompt length: 3977
+Label: 15751, Predict:  Of course! The <REGISTER_CONTENT> in line nappy-medicine is 42190., Parsed: 42190, prompt length: 3975
+Label: 36370, Predict:  Of course! I'm happy to help you. The <REGISTER_CONTENT> in line "crazy-genius" is 36370., Parsed: 36370, prompt length: 3962
+Label: 13631, Predict:  Of course! The <REGISTER_CONTENT> in line shaky-institute is 11899., Parsed: 11899, prompt length: 3986
+Label: 49942, Predict:  Of course! The <REGISTER_CONTENT> in line smooth-candidate is 14145., Parsed: 14145, prompt length: 3994
+Label: 29550, Predict:  Of course! The <REGISTER_CONTENT> in line lovely-fishnet is 29550., Parsed: 29550, prompt length: 3987
+Label: 48104, Predict:  Of course! The <REGISTER_CONTENT> in line swift-cape is 48104., Parsed: 48104, prompt length: 3979
+Label: 31371, Predict:  Of course! The <REGISTER_CONTENT> in line light-seaside is 31371., Parsed: 31371, prompt length: 3980
+Label: 45767, Predict:  Of course! The <REGISTER_CONTENT> in line laughable-wire is 45767., Parsed: 45767, prompt length: 3991
+Label: 49744, Predict:  Of course! I'm happy to help you with that. The <REGISTER_CONTENT> in line bright-transplantation is 41583., Parsed: 41583, prompt length: 3999
+Label: 1046, Predict:  Of course! The <REGISTER_CONTENT> in line kind-registry is 1046., Parsed: 1046, prompt length: 3934
+Label: 44771, Predict:  Of course! The <REGISTER_CONTENT> in line macabre-enzyme is 44771., Parsed: 44771, prompt length: 3975
+Label: 44097, Predict:  Of course! The <REGISTER_CONTENT> in line woozy-granddaughter is 44097., Parsed: 44097, prompt length: 3980
+Label: 29687, Predict:  Of course! The <REGISTER_CONTENT> in line discreet-high is 35719., Parsed: 35719, prompt length: 3993
+Label: 45112, Predict:  Of course! The <REGISTER_CONTENT> in line typical-honeybee is 45112., Parsed: 45112, prompt length: 3981
+Label: 28594, Predict:  Of course! The <REGISTER_CONTENT> in line glamorous-cytokine is 28594., Parsed: 28594, prompt length: 3966
+Label: 20929, Predict:  Of course! The <REGISTER_CONTENT> in line threatening-mastoid is 42476., Parsed: 42476, prompt length: 3959
+Label: 9247, Predict:  Of course! The <REGISTER_CONTENT> in line dapper-artery is 48119., Parsed: 48119, prompt length: 3983
+Label: 40272, Predict:  Of course! The <REGISTER_CONTENT> in line lively-swordfight is 42790., Parsed: 42790, prompt length: 3983
+Label: 32177, Predict:  Of course! The <REGISTER_CONTENT> in line outrageous-appellation is 42906., Parsed: 42906, prompt length: 3979
+Label: 39595, Predict:  Of course! The <REGISTER_CONTENT> in line profuse-patrimony is 39595., Parsed: 39595, prompt length: 3947
+
+Accuracy: 0.45
+Using conversation template: llama-2
+************ Finish testing 165 lines per prompt with average prompt length 3978.11, accuracy: 0.45 ************

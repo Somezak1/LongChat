@@ -1,0 +1,104 @@
+Label: 20776, Predict:                                                     1 1 \\ \\                                         , Parsed: 1, prompt length: 7830
+Label: 513, Predict:  \\ \\ \\ 1 1                     1               \\ \\ \\ \\                                              , Parsed: 1, prompt length: 7824
+Label: 3640, Predict:                   \\ \\ \\ \\ \\ \\             \\ \\                     \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\             , Parsed: -1, prompt length: 7806
+Label: 47696, Predict:  1   1 1                 1                                                        \\ \\               , Parsed: 1, prompt length: 7800
+Label: 19581, Predict:                                         1                                          \\     \\ 1 1 1 1 1, Parsed: 1, prompt length: 7793
+Label: 49201, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1       1 1 1  1 1 1 1 1 1              1 1 1 1 1 1 1 1        , Parsed: 1, prompt length: 7803
+Label: 31214, Predict:                                                             \\    1 1 1 \\ \\                          , Parsed: 1, prompt length: 7817
+Label: 9653, Predict:                   1                      1 1                        1 1                1       \\    , Parsed: 1, prompt length: 7764
+Label: 28787, Predict:                                              \\     \\ 1 1 \\ \\ \\                                      , Parsed: 1, prompt length: 7830
+Label: 4254, Predict:          \\                                              \\ \\ \\ \\ \\ \\ \\ \\ \\                           , Parsed: -1, prompt length: 7817
+Label: 49532, Predict:                                  \\ \\ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1                       1 1 1 1 1 1, Parsed: 1, prompt length: 7834
+Label: 40831, Predict:                           \\                    \\ \\ \\ \\  \\ \\ \\ \\ 1 1 \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\     , Parsed: 1, prompt length: 7800
+Label: 5927, Predict:                          \\ \\       \\ \\ \\ \\ \\ \\ 1 1 1 1 \\                                       \\    , Parsed: 1, prompt length: 7838
+Label: 9493, Predict:                                                           1 1 1                                     , Parsed: 1, prompt length: 7824
+Label: 32597, Predict:  1 1 1 1 1  \\ \\ \\   1 1        1 1 1 1 1 \\         \\ \\ \\ 1 1 1 1 1 1    \\ \\ \\ 1 1 1 1 1 1 1 1 1 C 1 , Parsed: 1, prompt length: 7793
+Label: 38837, Predict:  1 1 1 1 1 1 1 1 1 1 1            1                     1 1         \\ 1 1 1 1   1 1 \\ 1 1 1 1 1 1 \\ , Parsed: 1, prompt length: 7791
+Label: 39467, Predict:    1 1 1 1 1       1 1 1 1 1 11 1 1 1 1 1 1  1       1 1 1 1 1          1 1 1 1 1 1 1 1 1 1         , Parsed: 1, prompt length: 7803
+Label: 25226, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1      1 1 1 1  1 1 1 1 1 1 1 1 1    , Parsed: 1, prompt length: 7798
+Label: 25243, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1                 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1, Parsed: 1, prompt length: 7851
+Label: 4249, Predict:                     \\ \\ \\ \\ \\ \\            \\ \\ \\                \\ \\ \\ \\ \\ \\                         , Parsed: -1, prompt length: 7804
+Label: 6120, Predict:  1 1 1 1 1 1 1 1 1 1 \\ \\ 1 1 1 1 1 1 1 1 1 \\ \\ 1 1 1 1 1 1 1 1\\ 1 1 1 1 1 1 1 1 1                   , Parsed: 1, prompt length: 7822
+Label: 31693, Predict:  1 1 1            \\ \\ \\ \\ \\ \\ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1             1 1 1         1 1 1 1 1 1 , Parsed: 1, prompt length: 7849
+Label: 18153, Predict:           1 1 1 1 1 1 1 1 1 1 1 1 1 1 \\ \\ \\ 1 1 1 1 1 1 1 1 1                                       , Parsed: 1, prompt length: 7836
+Label: 44608, Predict:  1 1 1 1 \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ 1 1 1 1 1 \\ \\ \\ \\   1 1                        , Parsed: 1, prompt length: 7825
+Label: 12993, Predict:  \\ \\                     \\ \\ \\ \\  \\ \\ \\ \\ \\ \\                                                       , Parsed: -1, prompt length: 7847
+Label: 45580, Predict:        \\                              \\ \\ \\    \\ \\ \\ \\ \\ \\ \\ \\ \\ 1 1 \\ \\ 1 1                        , Parsed: 1, prompt length: 7819
+Label: 36143, Predict:                      \\ \\ \\                  \\ \\ \\                 \\ \\ \\ \\ \\ \\   C C C C \\ \\         , Parsed: -1, prompt length: 7802
+Label: 41427, Predict:                                                       \\ \\    \\ \\ \\ \\                                , Parsed: -1, prompt length: 7820
+Label: 9570, Predict:  1 1 1 1 1 \\ \\ \\ \\ 1 1 1 1 1 1 1 1 1 \\        1 1 1 1 1              1 1 1 1 1 1 1 1 1 \\ \\ \\ \\ \\ \\ \\, Parsed: 1, prompt length: 7857
+Label: 7733, Predict:  1 1 1 1 1 1 1 1 1 1 1 1                1 1 1 1       1 1 1 1 1 1 1 1 1         1 1                 , Parsed: 1, prompt length: 7818
+Label: 41807, Predict:  1 \\ \\ \\ 1 \\    \\ \\ \\ \\ \\  \\ \\ \\ \\ \\ \\ \\ \\ \\ 1 1 1 1 1 1   1 1 1    1 1                     1 1 1   , Parsed: 1, prompt length: 7839
+Label: 41305, Predict:                                               \\ \\   1 1 \\ \\ \\ \\ \\                                   , Parsed: 1, prompt length: 7829
+Label: 21142, Predict:          1                     1 1                     \\ 1        1 1                               , Parsed: 1, prompt length: 7817
+Label: 1308, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 11111111 1 1 1 1 1 1 1 1 1 , Parsed: 1, prompt length: 7809
+Label: 14550, Predict:  1 1      \\ \\ \\ \\ \\ \\ 1 1    \\ \\ \\ \\ \\    \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\                   , Parsed: 1, prompt length: 7814
+Label: 25093, Predict:                                                                                                     , Parsed: -1, prompt length: 7809
+Label: 30716, Predict:       1 1 1 1 1 1 1         1  \\ 1 \\ \\      \\ \\    \\ \\ \\ \\ \\ \\ \\ 1 1 1 1 \\ \\ \\ \\ \\                  , Parsed: 1, prompt length: 7813
+Label: 44614, Predict:  1 1 1                                     \\ \\ \\ 1 1 1 1 1 1 1 1 1 1 1 1                            , Parsed: 1, prompt length: 7829
+Label: 25459, Predict:  1 11111111 1 1 1 1  1 1 1 1 111111 1 1 1111111111111111111 1 1 1 1    1 111111111111111111111111111, Parsed: 111111111111111111111111111, prompt length: 7776
+Label: 29357, Predict:         1 \\ \\ \\ \\              1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1                , Parsed: 1, prompt length: 7817
+Label: 15448, Predict:       \\ \\                   \\                \\ \\ \\ \\ \\ \\ \\ 1  \\ \\ \\ \\ \\ \\ \\                         , Parsed: 1, prompt length: 7819
+Label: 26449, Predict:                                                            \\ \\                                      , Parsed: -1, prompt length: 7767
+Label: 39960, Predict:  \\              1 \\ \\ \\ 1                \\ \\ 1 1 1 1           \\ \\ \\ \\ \\ \\ \\ \\ \\                    , Parsed: 1, prompt length: 7808
+Label: 27971, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  \\ \\ \\ 1 1 1 1\\ 1 1 1 1 1 \\  1 1 1                       , Parsed: 1, prompt length: 7826
+Label: 13810, Predict:  1 1 1 1 1 1 1 1     1 1 1 1 1 1 1 1 1 1 1 1 1 1          1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 , Parsed: 1, prompt length: 7787
+Label: 41754, Predict:                            \\ \\ \\             \\ \\ \\ \\ \\           \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\    , Parsed: -1, prompt length: 7797
+Label: 40290, Predict:  1 1 1 1 1 1 \\ 1 1 1 1 1 1 1 1 1 1\\ 1 1 1 1 1 1 1 1 1 \\ \\ \\ \\ \\ 1 1 1 1 1 1 1 1 1 1 1 1 1 1         , Parsed: 1, prompt length: 7815
+Label: 41937, Predict:                                1 1                 1 1 1 1 1 1 1 1 1 1         1                    , Parsed: 1, prompt length: 7793
+Label: 45658, Predict:          1 1 1 1 1 1         \\ \\   1 1 1          \\ 1 1 1 1   1            \\ \\ \\ 1 \\ \\ \\ \\ \\ \\ \\ \\  , Parsed: 1, prompt length: 7796
+Label: 34389, Predict:  1 1 1 1 1 1   1 1 1  1 1 1 1 1 1 1 1 1 1     1 1 1 1 1 1 1 \\ \\ \\ \\ \\ \\    1 1 1    1       1 1 1 1 , Parsed: 1, prompt length: 7824
+Label: 25913, Predict:  \\ \\ \\          \\ \\ \\ \\    \\ \\ \\ \\      \\ \\ \\ \\ 1 1 1 1 1 1 1 1 1                                   , Parsed: 1, prompt length: 7830
+Label: 8939, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1                                , Parsed: 1, prompt length: 7823
+Label: 10538, Predict:  1 1 1 1 1 1 1   1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1, Parsed: 1, prompt length: 7796
+Label: 39152, Predict:                   \\ \\                                          \\ \\ \\ \\ \\ \\ \\ \\ \\ 1 \\                , Parsed: 1, prompt length: 7807
+Label: 49426, Predict:  \\ \\ \\               \\ \\ \\                       \\ \\   \\ \\ \\ \\ \\ \\                                  , Parsed: -1, prompt length: 7826
+Label: 12324, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1 1               1 1 1 1 1 1 1        \\ 1 1 1 1 1 1 1 1 1                 , Parsed: 1, prompt length: 7810
+Label: 20921, Predict:      \\ \\ \\ \\                 \\ \\ \\ \\ \\ \\   \\ \\ \\ \\ \\ \\                                              , Parsed: -1, prompt length: 7839
+Label: 25933, Predict:  \\ \\ \\ \\               \\ \\     1 1 1     \\ \\ \\ \\ \\ \\ \\ \\ \\ \\                                        , Parsed: 1, prompt length: 7826
+Label: 31735, Predict:                     1 1             \\ \\   \\           \\ \\ \\ \\ \\ \\                                   , Parsed: 1, prompt length: 7828
+Label: 40061, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1              1 1 , Parsed: 1, prompt length: 7827
+Label: 46992, Predict:         1 \\ \\                              1          \\ \\ \\ \\  \\ \\ 1 1 1                            , Parsed: 1, prompt length: 7816
+Label: 42192, Predict:                                                                              \\ \\ 1                  , Parsed: 1, prompt length: 7804
+Label: 6700, Predict:          1  1 1 1                \\ \\                    \\ \\ \\ \\ \\ \\ 1 1 \\ 1 \\ \\ \\ \\ \\ \\ \\ 1 1 1 1 1 , Parsed: 1, prompt length: 7792
+Label: 36672, Predict:                              \\                                          \\ \\ \\ \\ \\ \\ \\     \\         , Parsed: -1, prompt length: 7802
+Label: 18203, Predict:             \\ \\ \\                             1                \\   1 1 1 1                          , Parsed: 1, prompt length: 7813
+Label: 40730, Predict:                                                                    \\ \\ \\ \\ \\ \\ \\ \\ \\ \\              , Parsed: -1, prompt length: 7803
+Label: 7192, Predict:  1 1 1 1 1 1 1 1 1 1     1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 11111 1 1 1 1 1 1, Parsed: 1, prompt length: 7796
+Label: 21283, Predict:                                                                                                     , Parsed: -1, prompt length: 7823
+Label: 38216, Predict:        1 1 1                                    1 \\ \\ \\ \\ \\ 1 1 1 1 1 1 1 1 \\ \\                     , Parsed: 1, prompt length: 7815
+Label: 41703, Predict:                                                                                  \\ \\                , Parsed: -1, prompt length: 7808
+Label: 24450, Predict:                 \\                \\ \\ \\ \\ \\                                                          , Parsed: -1, prompt length: 7849
+Label: 47628, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1           1 1 1 1 1 1 1 1 1      1 1 1 1 1 1 1 1 1 1      1, Parsed: 1, prompt length: 7797
+Label: 15527, Predict:            \\ \\ \\               1 1 1 1 \\ \\ \\ \\ \\ \\ \\ \\ \\                                            , Parsed: 1, prompt length: 7835
+Label: 36563, Predict:  1 1 1     1   1 1   1 1 1 1 1 1 1 1   1 1                   1 1 1            1 1 1 1 1 1 1 1       , Parsed: 1, prompt length: 7855
+Label: 6895, Predict:  1 1 1 1 1 1 1         1 1 1 1 1 1 1 1      1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 , Parsed: 1, prompt length: 7797
+Label: 22009, Predict:                               1 1 1 \\ \\                                    \\ \\ \\ \\ \\ \\ \\ \\ \\ 1 \\ 1 1, Parsed: 1, prompt length: 7789
+Label: 417, Predict:                        1 1 1 1 1                      1 1                      1                    , Parsed: 1, prompt length: 7803
+Label: 43743, Predict:                                      1         \\ \\ \\ \\ \\ \\ \\ 1 \\                                    , Parsed: 1, prompt length: 7829
+Label: 37432, Predict:  1       1                      1 1                                                1 1 1 1          , Parsed: 1, prompt length: 7798
+Label: 7611, Predict:                \\ \\                                          \\ \\          \\ \\                        , Parsed: -1, prompt length: 7810
+Label: 27, Predict:  1 1 1 1 1 1 1 1 1 1 \\ \\ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1                                   1    , Parsed: 1, prompt length: 7841
+Label: 19934, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1      \\ \\ \\\\\\\\ 1 1 1 1 1\\\\\\ 1\\ 1 1 1              1                       , Parsed: 1, prompt length: 7833
+Label: 43181, Predict:  1 \\ 1 1 1 1 1 1\\ 1 1 1           \\ \\ 1 1 1 1          1 1 1 1 1 1 1 1 1 1 1 1 \\ 1 1 1              , Parsed: 1, prompt length: 7810
+Label: 2865, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1      1 1 1 1 1 1 1 , Parsed: 1, prompt length: 7839
+Label: 47638, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1   \\ \\ \\ \\ \\ 1 1 1 1 1 1 1 1 1 1 1 1       1                       1 1    , Parsed: 1, prompt length: 7839
+Label: 4717, Predict:  \\ \\                   \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\ \\                                              , Parsed: -1, prompt length: 7840
+Label: 7662, Predict:       \\     \\ \\ \\ \\ \\ \\ \\ \\  \\ \\ \\ \\ \\ \\ \\                                        \\ \\               , Parsed: -1, prompt length: 7852
+Label: 45439, Predict:  1 1          1 1 1 1 1 1 1 1          1 1 1 1 1 1 1 1           1 1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1, Parsed: 1, prompt length: 7808
+Label: 14701, Predict:     \\ \\               \\  \\ \\ \\ \\ \\            \\ \\ \\                                                 , Parsed: -1, prompt length: 7844
+Label: 2033, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 \\ \\ \\ 1 1 1 1 1\\\\\\ 1 1 1 1 1 1 1 1 1 1 1 1               1 , Parsed: 1, prompt length: 7825
+Label: 17878, Predict:                                                                                                     , Parsed: -1, prompt length: 7759
+Label: 5335, Predict:  \\        \\ \\          \\          \\ \\ \\ \\ \\ \\ 1 1 1 1 1 \\ \\                                     \\ 1 , Parsed: 1, prompt length: 7836
+Label: 40051, Predict:                                                                                                     , Parsed: -1, prompt length: 7828
+Label: 24482, Predict:  1 1 1 1 1 1 1 1 1 1 1 1 1 1                       1             1 1 1 1 1 1 1 1 1 1 1 1            , Parsed: 1, prompt length: 7815
+Label: 45277, Predict:  1 1 1 1               1 1     1 1     1 1 1 1 1 1 1 1 1 1 1 1 1 1 1                                , Parsed: 1, prompt length: 7833
+Label: 28650, Predict:                       \\ \\ \\                 \\ \\ \\                   \\ \\ \\ \\ 1 1 1 1 \\ \\ \\           , Parsed: 1, prompt length: 7803
+Label: 4726, Predict:                                                                         \\ \\ \\ \\ \\                   , Parsed: -1, prompt length: 7809
+Label: 33383, Predict:  1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 111111 1 1 1 1 1       1 1 1 1 1 1 1 1 1 1 1 1 1 , Parsed: 1, prompt length: 7830
+Label: 4756, Predict:  1 1             1 1     \\ \\ \\ 1 1 1       1 1 \\    1 1 1 1 1                1 1 1 1 1   \\ \\ \\ \\ \\ 1, Parsed: 1, prompt length: 7781
+Label: 15219, Predict:  \\ \\ \\ \\                                              \\ \\                                           , Parsed: -1, prompt length: 7827
+
+Accuracy: 0.0
+Using conversation template: vicuna_v1.1
+************ Finish testing 330 lines per prompt with average prompt length 7815.970000000002, accuracy: 0.0 ************

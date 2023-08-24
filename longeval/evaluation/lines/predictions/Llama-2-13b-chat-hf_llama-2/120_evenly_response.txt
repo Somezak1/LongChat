@@ -1,0 +1,104 @@
+Label: 29073, Predict:  Sure! The <REGISTER_CONTENT> in line combative-carboxyl is:  <REGISTER_CONTENT>: 29073, Parsed: 29073, prompt length: 2929
+Label: 1727, Predict:  Sure! The line "sable-tool" has a <REGISTER_CONTENT> of 1727., Parsed: 1727, prompt length: 2937
+Label: 35256, Predict:  Sure! The line blue-eyed-afterthought has a <REGISTER_CONTENT> of 35256., Parsed: 35256, prompt length: 2956
+Label: 8979, Predict:  Sure! The <REGISTER_CONTENT> in line futuristic-sponge is 8979., Parsed: 8979, prompt length: 2903
+Label: 39198, Predict:  Sure! The <REGISTER_CONTENT> in line crabby-molasses is 39198., Parsed: 39198, prompt length: 2934
+Label: 38730, Predict:  Sure! The <REGISTER_CONTENT> in line raspy-mother-in-law is 38730., Parsed: 38730, prompt length: 2934
+Label: 37303, Predict:  Sure! The line you're referring to is "tame-height: REGISTER_CONTENT is <37303>".  So, the <REGISTER_CONTENT> in that line is 37303., Parsed: 37303, prompt length: 2937
+Label: 41882, Predict:  Sure! The line "cautious-anniversary" has a <REGISTER_CONTENT> of 41882., Parsed: 41882, prompt length: 2915
+Label: 13441, Predict:  Sure! The <REGISTER_CONTENT> in line helpful-snowmobiling is:  13441, Parsed: 13441, prompt length: 2945
+Label: 44422, Predict:  Sure! The <REGISTER_CONTENT> in line organic-condominium is:  44422, Parsed: 44422, prompt length: 2949
+Label: 41269, Predict:  Sure! The line you provided is:  line jolly-ridge: REGISTER_CONTENT is <41269>  So, the <REGISTER_CONTENT> in this line is:  41269, Parsed: 41269, prompt length: 2925
+Label: 32339, Predict:  Sure! The <REGISTER_CONTENT> in line amused-league is 32339., Parsed: 32339, prompt length: 2920
+Label: 24276, Predict:  Sure! The line "mushy-revitalisation" has a <REGISTER_CONTENT> of 24276., Parsed: 24276, prompt length: 2939
+Label: 36638, Predict:  Sure! The line lacking-ascot has a <REGISTER_CONTENT> of 36638., Parsed: 36638, prompt length: 2940
+Label: 32840, Predict:  Sure! The <REGISTER_CONTENT> in line aboard-poisoning is 32840., Parsed: 32840, prompt length: 2931
+Label: 29320, Predict:  Sure! The line "sable-splendor" has a <REGISTER_CONTENT> of 29320., Parsed: 29320, prompt length: 2940
+Label: 36647, Predict:  Sure! The line you're asking about is "maddening-stress" and the corresponding <REGISTER_CONTENT> is:  36647, Parsed: 36647, prompt length: 2956
+Label: 33701, Predict:  Sure! The line "lowly-enquiry" has a <REGISTER_CONTENT> of 33701., Parsed: 33701, prompt length: 2933
+Label: 1567, Predict:  Sure! The line "languid-vivo" has a <REGISTER_CONTENT> of 1567., Parsed: 1567, prompt length: 2945
+Label: 43512, Predict:  Sure! The line you're referring to is:  line tasteful-mantel: REGISTER_CONTENT is <43512>  So, the <REGISTER_CONTENT> in that line is 43512., Parsed: 43512, prompt length: 2924
+Label: 17318, Predict:  Sure! The line you're asking about is "nonchalant-imbalance: REGISTER_CONTENT is <17318>".  So, the <REGISTER_CONTENT> of that line is 17318., Parsed: 17318, prompt length: 2920
+Label: 36326, Predict:  Sure! The <REGISTER_CONTENT> in line dynamic-priority is:  36326, Parsed: 36326, prompt length: 2950
+Label: 19909, Predict:  Sure! The line tangy-slippers has a <REGISTER_CONTENT> of 19909., Parsed: 19909, prompt length: 2948
+Label: 18360, Predict:  Sure! The line you're asking about is "workable-sightseeing". According to the record, the <REGISTER_CONTENT> of this line is 4008., Parsed: 4008, prompt length: 2924
+Label: 35967, Predict:  Sure! The <REGISTER_CONTENT> in line merciful-swordfish is:  35967, Parsed: 35967, prompt length: 2948
+Label: 33485, Predict:  Sure! The line dangerous-markup has a <REGISTER_CONTENT> of 33485., Parsed: 33485, prompt length: 2918
+Label: 27176, Predict:  Sure! The line "gentle-alligator" has a <REGISTER_CONTENT> of 27176., Parsed: 27176, prompt length: 2920
+Label: 14143, Predict:  Sure! The line you're referring to is:  line selective-melon: REGISTER_CONTENT is <14143>  So, the <REGISTER_CONTENT> in that line is 14143., Parsed: 14143, prompt length: 2960
+Label: 21955, Predict:  Sure! The line "madly-dedication" has a <REGISTER_CONTENT> of 21955., Parsed: 21955, prompt length: 2947
+Label: 20486, Predict:  Sure! The line you asked for is:  line cagey-photographer: REGISTER_CONTENT is <20486>  So, the <REGISTER_CONTENT> in that line is 20486., Parsed: 20486, prompt length: 2921
+Label: 22568, Predict:  Sure! The <REGISTER_CONTENT> in line onerous-burrito is 22568., Parsed: 22568, prompt length: 2937
+Label: 34486, Predict:  Sure! The <REGISTER_CONTENT> in line squalid-hiring is:  34486, Parsed: 34486, prompt length: 2929
+Label: 27824, Predict:  Sure! The line "greasy-mast" has a <REGISTER_CONTENT> of 27824., Parsed: 27824, prompt length: 2926
+Label: 21300, Predict:  Sure! The <REGISTER_CONTENT> in line versed-comb is 21300., Parsed: 21300, prompt length: 2928
+Label: 6891, Predict:  Sure! The <REGISTER_CONTENT> in line illegal-commission is:  6891, Parsed: 6891, prompt length: 2927
+Label: 29592, Predict:  Sure! The line gentle-mine has a <REGISTER_CONTENT> of 29592., Parsed: 29592, prompt length: 2940
+Label: 29026, Predict:  Sure! The line "long-bangle" has a <REGISTER_CONTENT> of 29026., Parsed: 29026, prompt length: 2919
+Label: 46998, Predict:  Sure! The line hissing-mountain has a <REGISTER_CONTENT> of 46998., Parsed: 46998, prompt length: 2924
+Label: 34459, Predict:  Sure! The <REGISTER_CONTENT> in line detailed-website is:  34459, Parsed: 34459, prompt length: 2921
+Label: 36614, Predict:  Sure! The line testy-contrast has a <REGISTER_CONTENT> of 36614., Parsed: 36614, prompt length: 2913
+Label: 29228, Predict:  Sure! The <REGISTER_CONTENT> in line belligerent-lard is:  3430, Parsed: 3430, prompt length: 2914
+Label: 43056, Predict:  Sure! The line "plucky-lament" has a <REGISTER_CONTENT> of 43056., Parsed: 43056, prompt length: 2948
+Label: 34530, Predict:  Sure! The line ludicrous-nickname has a <REGISTER_CONTENT> of 34530., Parsed: 34530, prompt length: 2946
+Label: 1256, Predict:  Sure! The line "capricious-cyst" has a <REGISTER_CONTENT> of 1256., Parsed: 1256, prompt length: 2937
+Label: 25638, Predict:  Sure! The <REGISTER_CONTENT> in line aquatic-cynic is:  25638, Parsed: 25638, prompt length: 2929
+Label: 41960, Predict:  Sure! The <REGISTER_CONTENT> in line massive-guide is 41960., Parsed: 41960, prompt length: 2957
+Label: 38489, Predict:  Sure! The <REGISTER_CONTENT> in line mindless-speedboat is 38489., Parsed: 38489, prompt length: 2925
+Label: 12680, Predict:  Sure! The line you're referring to is "abaft-grip", and the corresponding <REGISTER_CONTENT> is 12680., Parsed: 12680, prompt length: 2931
+Label: 13841, Predict:  Sure! The line "unsuitable-mantel" has a <REGISTER_CONTENT> of 13841., Parsed: 13841, prompt length: 2925
+Label: 33431, Predict:  Sure! The <REGISTER_CONTENT> in line internal-van is 33431., Parsed: 33431, prompt length: 2938
+Label: 37069, Predict:  Sure! The <REGISTER_CONTENT> in line grubby-living is 37069., Parsed: 37069, prompt length: 2932
+Label: 22487, Predict:  Sure! The <REGISTER_CONTENT> in line crooked-prison is 22487., Parsed: 22487, prompt length: 2938
+Label: 18527, Predict:  Sure! The <REGISTER_CONTENT> in line sweet-darkness is 18527., Parsed: 18527, prompt length: 2903
+Label: 21068, Predict:  Sure! The line you're referring to is "finicky-appointment" and the corresponding <REGISTER_CONTENT> is 21068., Parsed: 21068, prompt length: 2941
+Label: 41660, Predict:  Sure! The line "judicious-photographer" has a <REGISTER_CONTENT> of 41660., Parsed: 41660, prompt length: 2915
+Label: 37489, Predict:  Sure! The line you're referring to is "willing-safe: REGISTER_CONTENT is <37489>". So, the <REGISTER_CONTENT> in that line is 37489., Parsed: 37489, prompt length: 2930
+Label: 35828, Predict:  Sure! The line callous-pigsty has a <REGISTER_CONTENT> of 35828., Parsed: 35828, prompt length: 2945
+Label: 8784, Predict:  Sure! The <REGISTER_CONTENT> in line obsolete-beam is:  8784, Parsed: 8784, prompt length: 2948
+Label: 13562, Predict:  Sure! The <REGISTER_CONTENT> in line romantic-entree is:  13562, Parsed: 13562, prompt length: 2919
+Label: 9337, Predict:  Sure! The line "rotten-premeditation" has a <REGISTER_CONTENT> of 9337., Parsed: 9337, prompt length: 2912
+Label: 37357, Predict:  Sure! The <REGISTER_CONTENT> in line high-pitched-summit is 37357., Parsed: 37357, prompt length: 2927
+Label: 14345, Predict:  Sure! The <REGISTER_CONTENT> in line fine-fee is:  14345, Parsed: 14345, prompt length: 2959
+Label: 11815, Predict:  Sure! The line "shaggy-mansion" has a <REGISTER_CONTENT> of 11815., Parsed: 11815, prompt length: 2953
+Label: 22083, Predict:  Sure! The line bewildered-settler has a <REGISTER_CONTENT> of 22083., Parsed: 22083, prompt length: 2958
+Label: 29193, Predict:  Sure! The line "changeable-dump" has a <REGISTER_CONTENT> of 29193., Parsed: 29193, prompt length: 2942
+Label: 40566, Predict:  Sure! The line you asked for is "open-serial: REGISTER_CONTENT is <40566>."  So, the <REGISTER_CONTENT> in line open-serial is 40566., Parsed: 40566, prompt length: 2924
+Label: 1080, Predict:  Sure! The line you're referring to is "clean-armament: REGISTER_CONTENT is <1080>."  So, the <REGISTER_CONTENT> in that line is 1080., Parsed: 1080, prompt length: 2912
+Label: 13055, Predict:  Sure! The line you're referring to is "bashful-hardcover". The <REGISTER_CONTENT> in that line is:  13055, Parsed: 13055, prompt length: 2951
+Label: 23688, Predict:  Sure! The <REGISTER_CONTENT> in line functional-asymmetry is 23688., Parsed: 23688, prompt length: 2935
+Label: 32449, Predict:  Sure! The line "lucky-taste" has a <REGISTER_CONTENT> of 32449., Parsed: 32449, prompt length: 2957
+Label: 17205, Predict:  Sure! The line workable-pancake has a <REGISTER_CONTENT> of 17205., Parsed: 17205, prompt length: 2922
+Label: 25787, Predict:  Sure! The line you're referring to is "uninterested-replica". The <REGISTER_CONTENT> in that line is:  25787, Parsed: 25787, prompt length: 2928
+Label: 1602, Predict:  Sure! The line fallacious-gateway has a <REGISTER_CONTENT> of 1602., Parsed: 1602, prompt length: 2924
+Label: 5143, Predict:  Sure! The <REGISTER_CONTENT> in line therapeutic-congress is 5143., Parsed: 5143, prompt length: 2942
+Label: 49623, Predict:  Sure! The line merciful-fold has a <REGISTER_CONTENT> of 49623., Parsed: 49623, prompt length: 2932
+Label: 5871, Predict:  Sure! The line "noxious-harvester" has a <REGISTER_CONTENT> of 5871., Parsed: 5871, prompt length: 2925
+Label: 22006, Predict:  Sure! The <REGISTER_CONTENT> in line graceful-mayor is 22006., Parsed: 22006, prompt length: 2925
+Label: 36391, Predict:  Sure! The line "mature-house" has a <REGISTER_CONTENT> of 36391., Parsed: 36391, prompt length: 2938
+Label: 45734, Predict:  Sure! The line you're asking about is "acceptable-yarmulke". The corresponding <REGISTER_CONTENT> for that line is:  45734, Parsed: 45734, prompt length: 2937
+Label: 45999, Predict:  Sure! The <REGISTER_CONTENT> in line alike-glen is:  45999, Parsed: 45999, prompt length: 2932
+Label: 22869, Predict:  Sure! The line you're referring to is "line little-initialise: REGISTER_CONTENT is <22869>".  So, the <REGISTER_CONTENT> in line little-initialise is 22869., Parsed: 22869, prompt length: 2928
+Label: 1753, Predict:  Sure! The <REGISTER_CONTENT> in line shaky-ephemera is:  1753, Parsed: 1753, prompt length: 2951
+Label: 31856, Predict:  Sure! The <REGISTER_CONTENT> in line outrageous-background is:  31856, Parsed: 31856, prompt length: 2947
+Label: 15371, Predict:  Sure! The line "dashing-scam" has a <REGISTER_CONTENT> of 15371., Parsed: 15371, prompt length: 2933
+Label: 22045, Predict:  Sure! The line nostalgic-charger has a <REGISTER_CONTENT> of 22045., Parsed: 22045, prompt length: 2919
+Label: 18702, Predict:  Sure! The <REGISTER_CONTENT> in line super-accomplishment is:  18702, Parsed: 18702, prompt length: 2951
+Label: 48369, Predict:  Sure! The <REGISTER_CONTENT> in line economic-tanker is:  48369, Parsed: 48369, prompt length: 2903
+Label: 40651, Predict:  Sure! The <REGISTER_CONTENT> in line incandescent-owl is:  40651, Parsed: 40651, prompt length: 2930
+Label: 7509, Predict:  Sure! The line "wise-cohort" has a <REGISTER_CONTENT> of 7509., Parsed: 7509, prompt length: 2927
+Label: 13860, Predict:  Sure! The line "kind-shortwave" has a <REGISTER_CONTENT> of 13860., Parsed: 13860, prompt length: 2932
+Label: 18090, Predict:  Sure! The line you requested is "sincere-transformation". The corresponding <REGISTER_CONTENT> is:  18090, Parsed: 18090, prompt length: 2952
+Label: 24520, Predict:  Sure! The line you're asking about is "tightfisted-stamina" and the corresponding <REGISTER_CONTENT> is 24520., Parsed: 24520, prompt length: 2943
+Label: 29005, Predict:  Sure! The line endurable-fiddle has a <REGISTER_CONTENT> of 29005., Parsed: 29005, prompt length: 2933
+Label: 28081, Predict:  Sure! The line equable-opium has a <REGISTER_CONTENT> of 28081., Parsed: 28081, prompt length: 2928
+Label: 46338, Predict:  Sure! The line wandering-pamphlet has a <REGISTER_CONTENT> of 46338., Parsed: 46338, prompt length: 2940
+Label: 37766, Predict:  Sure! The line "romantic-estimate" has a <REGISTER_CONTENT> of 37766., Parsed: 37766, prompt length: 2932
+Label: 39688, Predict:  Sure! The <REGISTER_CONTENT> in line orange-gnu is:  39688, Parsed: 39688, prompt length: 2917
+Label: 48803, Predict:  Sure! The line you're asking about is:  line elite-ripple: REGISTER_CONTENT is <48803>  So, the <REGISTER_CONTENT> in that line is 48803., Parsed: 48803, prompt length: 2933
+Label: 34328, Predict:  Sure! The line aspiring-doe has a <REGISTER_CONTENT> of 34328., Parsed: 34328, prompt length: 2957
+Label: 41306, Predict:  Sure! The line you're referring to is "wide-spray: REGISTER_CONTENT is <41306>".  So, the <REGISTER_CONTENT> in line wide-spray is 41306., Parsed: 41306, prompt length: 2940
+
+Accuracy: 0.98
+Using conversation template: llama-2
+************ Finish testing 120 lines per prompt with average prompt length 2933.64, accuracy: 0.98 ************

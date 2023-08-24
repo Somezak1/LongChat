@@ -1,0 +1,104 @@
+Label: 13468, Predict: The <REGISTER_CONTENT> is <32726>., Parsed: 32726, prompt length: 2935
+Label: 6311, Predict: The <REGISTER_CONTENT> is <49489>., Parsed: 49489, prompt length: 2922
+Label: 529, Predict: The number is <13580>., Parsed: 13580, prompt length: 2977
+Label: 12344, Predict: The <REGISTER_CONTENT> is a list of integers that represent the order of the elements in the record. The <REGISTER_CONTENT> is a list of integers that can be accessed and modified., Parsed: -1, prompt length: 2945
+Label: 36552, Predict: The number is <21292>., Parsed: 21292, prompt length: 2957
+Label: 36225, Predict: The <REGISTER_CONTENT> is <12134>., Parsed: 12134, prompt length: 2942
+Label: 17897, Predict: The <REGISTER_CONTENT> is <48387>., Parsed: 48387, prompt length: 2957
+Label: 37604, Predict: The number is <19686>., Parsed: 19686, prompt length: 2952
+Label: 8323, Predict: The <REGISTER_CONTENT> is <46873>., Parsed: 46873, prompt length: 2939
+Label: 7452, Predict: The <REGISTER_CONTENT> is <12345>., Parsed: 12345, prompt length: 2955
+Label: 12791, Predict: The <REGISTER_CONTENT> is <49158>., Parsed: 49158, prompt length: 2955
+Label: 42420, Predict: The number is <12943>., Parsed: 12943, prompt length: 2952
+Label: 29818, Predict: The number is <45278>., Parsed: 45278, prompt length: 2966
+Label: 31646, Predict: The number is <49385>., Parsed: 49385, prompt length: 2971
+Label: 44981, Predict: The <REGISTER_CONTENT> is <41469>., Parsed: 41469, prompt length: 2962
+Label: 35058, Predict: The <REGISTER_CONTENT> is <43957>., Parsed: 43957, prompt length: 2954
+Label: 37163, Predict: The <REGISTER_CONTENT> is a list of numbers, each representing a line of data. The <REGISTER_CONTENT> is used to store the data in memory, and can be accessed and modified as needed., Parsed: -1, prompt length: 2958
+Label: 26142, Predict: The <REGISTER_CONTENT> is <42701>., Parsed: 42701, prompt length: 2948
+Label: 29956, Predict: The number is <48361>., Parsed: 48361, prompt length: 2971
+Label: 14238, Predict: The number is <49842>., Parsed: 49842, prompt length: 2969
+Label: 9414, Predict: The <REGISTER_CONTENT> is a list of numbers that represent the records of the company. It can be used to analyze the company's performance, or to compare it with other companies in the same industry., Parsed: -1, prompt length: 2948
+Label: 6016, Predict: The <REGISTER_CONTENT> is <42135>., Parsed: 42135, prompt length: 2926
+Label: 44183, Predict: The <REGISTER_CONTENT> is <45311>., Parsed: 45311, prompt length: 2971
+Label: 38232, Predict: The number is <49952>., Parsed: 49952, prompt length: 2972
+Label: 9204, Predict: The <REGISTER_CONTENT> is <12596>., Parsed: 12596, prompt length: 2947
+Label: 4172, Predict: The <REGISTER_CONTENT> is a list of numbers that represent the records of the company. It can be used to find the record of a specific company or to compare the records of multiple companies., Parsed: -1, prompt length: 2956
+Label: 9309, Predict: The number is <12045>., Parsed: 12045, prompt length: 2963
+Label: 42467, Predict: The <REGISTER_CONTENT> is a list of numbers that represent the order of the input. It can be used to find patterns, trends, and other statistics in the data., Parsed: -1, prompt length: 2947
+Label: 14091, Predict: The number is <49609>., Parsed: 49609, prompt length: 2952
+Label: 40735, Predict: The <REGISTER_CONTENT> is <12723>., Parsed: 12723, prompt length: 2942
+Label: 46895, Predict: The <REGISTER_CONTENT> is <46534>., Parsed: 46534, prompt length: 2935
+Label: 36208, Predict: The number is <36085>., Parsed: 36085, prompt length: 2958
+Label: 6669, Predict: The <REGISTER_CONTENT> is <14203>., Parsed: 14203, prompt length: 2955
+Label: 2917, Predict: The <REGISTER_CONTENT> is <12568>., Parsed: 12568, prompt length: 2947
+Label: 26200, Predict: The <REGISTER_CONTENT> is <45972>., Parsed: 45972, prompt length: 2943
+Label: 1914, Predict: The <REGISTER_CONTENT> is <4269>., Parsed: 4269, prompt length: 2933
+Label: 8802, Predict: The number is <12345> and it is called "number-one"., Parsed: 12345, prompt length: 2978
+Label: 15863, Predict: The <REGISTER_CONTENT> is <1234>., Parsed: 1234, prompt length: 2969
+Label: 22092, Predict: The number is <2231>., Parsed: 2231, prompt length: 2972
+Label: 32818, Predict: The <REGISTER_CONTENT> is <42182>., Parsed: 42182, prompt length: 2944
+Label: 44633, Predict: The number is <4139>., Parsed: 4139, prompt length: 2967
+Label: 33659, Predict: The <REGISTER_CONTENT> is <16835>., Parsed: 16835, prompt length: 2953
+Label: 952, Predict: The <REGISTER_CONTENT> is <3192>., Parsed: 3192, prompt length: 2954
+Label: 26348, Predict: The <REGISTER_CONTENT> is <42159>., Parsed: 42159, prompt length: 2950
+Label: 41537, Predict: The <REGISTER_CONTENT> is a list of integers., Parsed: -1, prompt length: 2949
+Label: 16782, Predict: The <REGISTER_CONTENT> is 43070., Parsed: 43070, prompt length: 2938
+Label: 15853, Predict: The <REGISTER_CONTENT> is <4294>., Parsed: 4294, prompt length: 2932
+Label: 15041, Predict: The <REGISTER_CONTENT> is <36430>., Parsed: 36430, prompt length: 2944
+Label: 21147, Predict: The number is <42033>., Parsed: 42033, prompt length: 2980
+Label: 33178, Predict: The <REGISTER_CONTENT> is a list of numbers. Each number represents a line of data that can be accessed by the user. The user can choose which line to display by selecting a line from the list., Parsed: -1, prompt length: 2957
+Label: 21306, Predict: The <REGISTER_CONTENT> is <46218>., Parsed: 46218, prompt length: 2947
+Label: 48184, Predict: The number is <29445>., Parsed: 29445, prompt length: 2948
+Label: 43914, Predict: You can't do that with a number. You need to use a variable., Parsed: -1, prompt length: 2974
+Label: 7665, Predict: The number is <49008>., Parsed: 49008, prompt length: 2963
+Label: 8652, Predict: The number is <42676>., Parsed: 42676, prompt length: 2970
+Label: 30055, Predict: The number is <42188>., Parsed: 42188, prompt length: 2979
+Label: 42830, Predict: The <REGISTER_CONTENT> is <45491>., Parsed: 45491, prompt length: 2952
+Label: 27084, Predict: The number is <41806>., Parsed: 41806, prompt length: 2962
+Label: 43743, Predict: The <REGISTER_CONTENT> is <46308>., Parsed: 46308, prompt length: 2941
+Label: 24294, Predict: The <REGISTER_CONTENT> is <46545>., Parsed: 46545, prompt length: 2941
+Label: 24017, Predict: The <REGISTER_CONTENT> is a list of numbers., Parsed: -1, prompt length: 2961
+Label: 18319, Predict: The <REGISTER_CONTENT> is 4231., Parsed: 4231, prompt length: 2940
+Label: 5447, Predict: The number is <32443>., Parsed: 32443, prompt length: 2953
+Label: 5113, Predict: The <REGISTER_CONTENT> is <1801>., Parsed: 1801, prompt length: 2942
+Label: 41657, Predict: The number is <49581>., Parsed: 49581, prompt length: 2964
+Label: 37825, Predict: The <REGISTER_CONTENT> is <46510>., Parsed: 46510, prompt length: 2958
+Label: 2774, Predict: The number is <12345>., Parsed: 12345, prompt length: 2975
+Label: 32635, Predict: The <REGISTER_CONTENT> is <18998>., Parsed: 18998, prompt length: 2948
+Label: 45919, Predict: The <REGISTER_CONTENT> is 49417., Parsed: 49417, prompt length: 2934
+Label: 39395, Predict: The <REGISTER_CONTENT> is <49413>., Parsed: 49413, prompt length: 2929
+Label: 45338, Predict: The <REGISTER_CONTENT> is 42712., Parsed: 42712, prompt length: 2943
+Label: 4622, Predict: The <REGISTER_CONTENT> is <1234>!, Parsed: 1234, prompt length: 2942
+Label: 43792, Predict: The number is <42511>., Parsed: 42511, prompt length: 2965
+Label: 40301, Predict: The <REGISTER_CONTENT> is <46018>., Parsed: 46018, prompt length: 2937
+Label: 24845, Predict: The number is <42033>., Parsed: 42033, prompt length: 2958
+Label: 23866, Predict: The number is <46116>., Parsed: 46116, prompt length: 2966
+Label: 1712, Predict: The <REGISTER_CONTENT> is a list of numbers that represent the record of the company's financial transactions. The <REGISTER_CONTENT> is a list of numbers that represent the company's financial transactions., Parsed: -1, prompt length: 2949
+Label: 6258, Predict: The <REGISTER_CONTENT> is <14606>., Parsed: 14606, prompt length: 2939
+Label: 1077, Predict: The number is <43508>., Parsed: 43508, prompt length: 2955
+Label: 25260, Predict: The <REGISTER_CONTENT> is <32173>., Parsed: 32173, prompt length: 2950
+Label: 31198, Predict: The number is <42081>., Parsed: 42081, prompt length: 2971
+Label: 4193, Predict: The number is <42943>., Parsed: 42943, prompt length: 2982
+Label: 40703, Predict: The <REGISTER_CONTENT> is <424-319>, Parsed: 319, prompt length: 2939
+Label: 31923, Predict: The <REGISTER_CONTENT> is <12469>., Parsed: 12469, prompt length: 2943
+Label: 29563, Predict: The number is <26114>., Parsed: 26114, prompt length: 2953
+Label: 46080, Predict: The number is <23336>., Parsed: 23336, prompt length: 2948
+Label: 553, Predict: The <REGISTER_CONTENT> is <19835>., Parsed: 19835, prompt length: 2955
+Label: 28600, Predict: The <REGISTER_CONTENT> is <37841>., Parsed: 37841, prompt length: 2957
+Label: 22109, Predict: The number is <2291>., Parsed: 2291, prompt length: 2951
+Label: 6908, Predict: The number is <1234>., Parsed: 1234, prompt length: 2969
+Label: 33494, Predict: The <REGISTER_CONTENT> is <49357>., Parsed: 49357, prompt length: 2958
+Label: 28066, Predict: The number is <12342>., Parsed: 12342, prompt length: 2960
+Label: 995, Predict: The number is <15959>., Parsed: 15959, prompt length: 2963
+Label: 9738, Predict: The <REGISTER_CONTENT> is <21094>., Parsed: 21094, prompt length: 2954
+Label: 14151, Predict: The <REGISTER_CONTENT> is <12345>, Parsed: 12345, prompt length: 2940
+Label: 8613, Predict: The <REGISTER_CONTENT> is <4294>., Parsed: 4294, prompt length: 2921
+Label: 27835, Predict: The <REGISTER_CONTENT> is <46305>., Parsed: 46305, prompt length: 2944
+Label: 42961, Predict: The number is <42361>., Parsed: 42361, prompt length: 2925
+Label: 7573, Predict: The <REGISTER_CONTENT> is <49101>., Parsed: 49101, prompt length: 2948
+Label: 35024, Predict: The <REGISTER_CONTENT> is <42691>., Parsed: 42691, prompt length: 2925
+
+Accuracy: 0.0
+Using conversation template: vicuna_v1.1
+************ Finish testing 120 lines per prompt with average prompt length 2952.600000000001, accuracy: 0.0 ************

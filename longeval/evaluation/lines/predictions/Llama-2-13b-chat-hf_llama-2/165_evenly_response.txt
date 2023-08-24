@@ -1,0 +1,104 @@
+Label: 13169, Predict:  Sure! The line you're looking for is "absent-digestion". The corresponding <REGISTER_CONTENT> is 3090., Parsed: 3090, prompt length: 3991
+Label: 1721, Predict:  Sure! The line you're asking about is "kind-formal: REGISTER_CONTENT is <1721>".  So, the <REGISTER_CONTENT> in that line is 1721., Parsed: 1721, prompt length: 3963
+Label: 4468, Predict:  Sure! The line you're referring to is "rich-knife-edge: REGISTER_CONTENT is <18014>". The number you're looking for is 18014., Parsed: 18014, prompt length: 3964
+Label: 19465, Predict:  Sure! The line you're referring to is "stupid-spending: REGISTER_CONTENT is <19465>"., Parsed: 19465, prompt length: 3984
+Label: 19554, Predict:  Sure! The line you provided is:  "defiant-revolution: REGISTER_CONTENT is <19554>"  So, the <REGISTER_CONTENT> in that line is 19554., Parsed: 19554, prompt length: 3964
+Label: 37113, Predict:  Sure! The REGISTER_CONTENT in line noxious-zampone is 37113., Parsed: 37113, prompt length: 3974
+Label: 9296, Predict:  Sure! The line colossal-civilisation has a <REGISTER_CONTENT> of 9296., Parsed: 9296, prompt length: 3996
+Label: 43926, Predict:  Sure! The line you're looking for is "abaft-earthquake". The REGISTER_CONTENT for that line is:  REGISTER_CONTENT = 43926, Parsed: 43926, prompt length: 3981
+Label: 41486, Predict:  Sure! The REGISTER_CONTENT in line brainy-snake is 41486., Parsed: 41486, prompt length: 3980
+Label: 14164, Predict:  Sure! The line "telling-youngster" corresponds to the number 14164 in the register content., Parsed: 14164, prompt length: 3973
+Label: 1555, Predict:  Sure! The line you're looking for is:  "sedate-commonsense: REGISTER_CONTENT is <1555>"  So, the <REGISTER_CONTENT> for that line is 1555., Parsed: 1555, prompt length: 3973
+Label: 30209, Predict:  Sure! The line "aspiring-toga" has a <REGISTER_CONTENT> of 30209., Parsed: 30209, prompt length: 3966
+Label: 23332, Predict:  Sure! The line you're looking for is "wealthy-stripe: REGISTER_CONTENT is <23332>". The number you're looking for is 23332., Parsed: 23332, prompt length: 3962
+Label: 25438, Predict:  Sure! The REGISTER_CONTENT in line languid-sportsman is 25438., Parsed: 25438, prompt length: 3991
+Label: 26453, Predict:  Sure! The REGISTER_CONTENT for line busy-stress is <26453>., Parsed: 26453, prompt length: 3994
+Label: 6821, Predict:  Sure! The <REGISTER_CONTENT> in line entertaining-measles is 6821., Parsed: 6821, prompt length: 3995
+Label: 3369, Predict:  Sure! The line null-steward has a <REGISTER_CONTENT> of 3369., Parsed: 3369, prompt length: 3959
+Label: 30297, Predict:  Sure! The line you're referring to is "boiling-sauerkraut: REGISTER_CONTENT is <30297>".  So, the <REGISTER_CONTENT> in that line is 30297., Parsed: 30297, prompt length: 3954
+Label: 34480, Predict:  Sure! The line you're looking for is "flawless-saffron". The REGISTER_CONTENT for that line is:  34480, Parsed: 34480, prompt length: 3952
+Label: 3611, Predict:  Sure! The line you provided is:  "cruel-latte: REGISTER_CONTENT is <35702>"  So, the <REGISTER_CONTENT> in that line is 35702., Parsed: 35702, prompt length: 3976
+Label: 6032, Predict:  Sure! The line you're looking for is "condemned-serum". The REGISTER_CONTENT for that line is:  REGISTER_CONTENT is <6032>  So the number you're looking for is 6032., Parsed: 6032, prompt length: 3969
+Label: 6894, Predict:  Sure! The line you're asking about is "abaft-satellite". According to the record, the <REGISTER_CONTENT> for that line is:  <REGISTER_CONTENT>: 6894, Parsed: 6894, prompt length: 3959
+Label: 43275, Predict:  Sure! The REGISTER_CONTENT in line abnormal-landing is 43275., Parsed: 43275, prompt length: 3999
+Label: 18668, Predict:  Sure! The REGISTER_CONTENT in line few-ramen is 18668., Parsed: 18668, prompt length: 3955
+Label: 17986, Predict:  Sure! The line jittery-sick has a <REGISTER_CONTENT> of 17986., Parsed: 17986, prompt length: 3978
+Label: 183, Predict:  Sure! The line you're looking for is:  "sweet-conspirator: REGISTER_CONTENT is <183>"  So, the <REGISTER_CONTENT> in that line is 183., Parsed: 183, prompt length: 4004
+Label: 27890, Predict:  Sure! The REGISTER_CONTENT in line annoying-accordance is 27890., Parsed: 27890, prompt length: 3989
+Label: 13152, Predict:  Sure! The line you're referring to is "dizzy-napkin". The REGISTER_CONTENT for that line is 13152., Parsed: 13152, prompt length: 3976
+Label: 42149, Predict:  Sure! The line you're looking for is "holistic-motorcycle". The corresponding <REGISTER_CONTENT> is 42149., Parsed: 42149, prompt length: 3981
+Label: 6882, Predict:  Sure! The line you're asking about is:  line observant-soldier: REGISTER_CONTENT is <6882>  So, the <REGISTER_CONTENT> in that line is 6882., Parsed: 6882, prompt length: 3990
+Label: 5125, Predict:  Sure! The line "kind-lip" has a <REGISTER_CONTENT> of 5125., Parsed: 5125, prompt length: 3975
+Label: 362, Predict:  Sure! The REGISTER_CONTENT in line dynamic-cicada is 362., Parsed: 362, prompt length: 3959
+Label: 24365, Predict:  Sure! The line you're looking for is "melted-fail", and the corresponding <REGISTER_CONTENT> is 24365., Parsed: 24365, prompt length: 3961
+Label: 10637, Predict:  Sure! The line you're looking for is "creepy-pusher", and the corresponding <REGISTER_CONTENT> is 10637., Parsed: 10637, prompt length: 4001
+Label: 49174, Predict:  Sure! The line you provided is "materialistic-defendant: REGISTER_CONTENT is <49174>".  Therefore, the <REGISTER_CONTENT> in that line is 49174., Parsed: 49174, prompt length: 3981
+Label: 20174, Predict:  Sure! The <REGISTER_CONTENT> in line stereotyped-clef is 20174., Parsed: 20174, prompt length: 3987
+Label: 38369, Predict:  Sure! The <REGISTER_CONTENT> in line resonant-moonlight is 38369., Parsed: 38369, prompt length: 3977
+Label: 23113, Predict:  Sure! The <REGISTER_CONTENT> in line wonderful-electricity is 23113., Parsed: 23113, prompt length: 3944
+Label: 41344, Predict:  Sure! The line you're looking for is "marked-letter". The <REGISTER_CONTENT> in that line is:  41344, Parsed: 41344, prompt length: 3962
+Label: 33807, Predict:  Sure! The line you're looking for is "dizzy-vinegar". The REGISTER_CONTENT for that line is:  REGISTER_CONTENT = 33807, Parsed: 33807, prompt length: 3959
+Label: 31953, Predict:  Sure! The line mighty-circumference has a <REGISTER_CONTENT> of 31953., Parsed: 31953, prompt length: 3968
+Label: 39371, Predict:  Sure! The line you're looking for is:  line volatile-dog: REGISTER_CONTENT is <39371>  So, the <REGISTER_CONTENT> in that line is 39371., Parsed: 39371, prompt length: 3984
+Label: 14258, Predict:  Sure! The line curious-lightscreen has a <REGISTER_CONTENT> of 14258., Parsed: 14258, prompt length: 3969
+Label: 30572, Predict:  Sure! The line you're looking for is "erect-oregano". The REGISTER_CONTENT for that line is:  REGISTER_CONTENT = 30572, Parsed: 30572, prompt length: 4004
+Label: 23483, Predict:  Sure! The line you provided is:  "squalid-gauntlet: REGISTER_CONTENT is <23483>"  So, the <REGISTER_CONTENT> in that line is 23483., Parsed: 23483, prompt length: 3964
+Label: 23979, Predict:  Sure! The line "ill-cobweb" has a <REGISTER_CONTENT> of 23979., Parsed: 23979, prompt length: 3983
+Label: 48502, Predict:  Sure! The line you're looking for is:  line stupid-trillion: REGISTER_CONTENT is <48502>  So, the <REGISTER_CONTENT> in that line is 48502., Parsed: 48502, prompt length: 3983
+Label: 26349, Predict:  Sure! The line nostalgic-rent has a <REGISTER_CONTENT> of 26349., Parsed: 26349, prompt length: 3974
+Label: 29773, Predict:  Sure! The line you're looking for is "macho-baggy: REGISTER_CONTENT is <29773>". The number you're looking for is 29773., Parsed: 29773, prompt length: 3987
+Label: 45654, Predict:  Sure! The line you provided is "foregoing-maternity: REGISTER_CONTENT is <45654>". The number you're looking for is 45654., Parsed: 45654, prompt length: 4009
+Label: 9868, Predict:  Sure! The line guarded-flatboat has a <REGISTER_CONTENT> of 9868., Parsed: 9868, prompt length: 3992
+Label: 13388, Predict:  Sure! The REGISTER_CONTENT in line diligent-step-daughter is 13388., Parsed: 13388, prompt length: 3974
+Label: 922, Predict:  Sure! The line "half-jazz" appears at register index 816. Therefore, the <REGISTER_CONTENT> in line half-jazz is 816., Parsed: 816, prompt length: 3998
+Label: 3737, Predict:  Sure! The line you're looking for is:  line direful-buddy: REGISTER_CONTENT is <3737>  So, the <REGISTER_CONTENT> in that line is 3737., Parsed: 3737, prompt length: 3977
+Label: 12373, Predict:  Sure! The line you're looking for is "homely-synthesis". The corresponding register content for that line is:  REGISTER_CONTENT is <12373>, Parsed: 12373, prompt length: 3975
+Label: 10648, Predict:  Sure! The line you're looking for is "arrogant-microphone". The corresponding <REGISTER_CONTENT> is 10648., Parsed: 10648, prompt length: 3991
+Label: 9865, Predict:  Sure! The line you provided is "spurious-manipulation: REGISTER_CONTENT is <9865>".  So, the <REGISTER_CONTENT> in line spurious-manipulation is 9865., Parsed: 9865, prompt length: 3951
+Label: 6581, Predict:  Sure! The line you're looking for is "important-spoon" and the corresponding <REGISTER_CONTENT> is 6581., Parsed: 6581, prompt length: 3984
+Label: 43535, Predict:  Sure! The line you provided is "shivering-uncle: REGISTER_CONTENT is <43535>".  So, the register content for line shivering-uncle is 43535., Parsed: 43535, prompt length: 3983
+Label: 38799, Predict:  Sure! The line you're looking for is "fierce-barley". The corresponding <REGISTER_CONTENT> is:  37995, Parsed: 37995, prompt length: 3960
+Label: 8737, Predict:  Sure! The REGISTER_CONTENT in line sulky-tenth is 8737., Parsed: 8737, prompt length: 3957
+Label: 11653, Predict:  Sure! The line "known-ceramic" has a <REGISTER_CONTENT> of 11653., Parsed: 11653, prompt length: 3954
+Label: 19592, Predict:  Sure! The line you're looking for is "meek-dose". The REGISTER_CONTENT for that line is:  REGISTER_CONTENT = 19592, Parsed: 19592, prompt length: 3958
+Label: 9917, Predict:  Sure! The line you're referring to is "sweet-workforce". The corresponding <REGISTER_CONTENT> is 9917., Parsed: 9917, prompt length: 3945
+Label: 3470, Predict:  Sure! The REGISTER_CONTENT in line nostalgic-opera is 3470., Parsed: 3470, prompt length: 3938
+Label: 38991, Predict:  Sure! The line you're looking for is "voracious-payment". The REGISTER_CONTENT for that line is:  REGISTER_CONTENT = 38991, Parsed: 38991, prompt length: 3977
+Label: 21495, Predict:  Sure! The line you're looking for is "boundless-dollar". The REGISTER_CONTENT for that line is:  REGISTER_CONTENT = 21495, Parsed: 21495, prompt length: 3966
+Label: 7497, Predict:  Sure! The line you provided is "swanky-aid: REGISTER_CONTENT is <7497>".  So, the <REGISTER_CONTENT> in line swanky-aid is 7497., Parsed: 7497, prompt length: 3992
+Label: 1149, Predict:  Sure! The line equable-lover has a <REGISTER_CONTENT> of 1149., Parsed: 1149, prompt length: 3978
+Label: 36487, Predict:  Sure! The line "flat-shame" appears in the record as line number 36487. Therefore, the <REGISTER_CONTENT> in line flat-shame is 36487., Parsed: 36487, prompt length: 3978
+Label: 74, Predict:  Sure! The line you're looking for is "steady-mime" and the corresponding <REGISTER_CONTENT> is 74., Parsed: 74, prompt length: 3963
+Label: 20856, Predict:  Sure! The line "sable-cone" appears at register index 20856., Parsed: 20856, prompt length: 4007
+Label: 17464, Predict:  Sure! The line internal-marketplace has a <REGISTER_CONTENT> of 17464., Parsed: 17464, prompt length: 3963
+Label: 16096, Predict:  Sure! The line bitter-clerk has a <REGISTER_CONTENT> of 16096., Parsed: 16096, prompt length: 3975
+Label: 16504, Predict:  Sure! The <REGISTER_CONTENT> in line hypnotic-discipline is 16504., Parsed: 16504, prompt length: 3974
+Label: 25931, Predict:  Sure! The line "faithful-toilet" has a <REGISTER_CONTENT> of 25931., Parsed: 25931, prompt length: 3989
+Label: 13229, Predict:  Sure! The REGISTER_CONTENT in line aware-stock-in-trade is:  13229, Parsed: 13229, prompt length: 3969
+Label: 31918, Predict:  Sure! The line steady-codon has a <REGISTER_CONTENT> of 31918., Parsed: 31918, prompt length: 3960
+Label: 3850, Predict:  Sure! The REGISTER_CONTENT in line bitter-common is 3850., Parsed: 3850, prompt length: 3949
+Label: 49459, Predict:  Sure! The line you're looking for is "steady-parliament". The REGISTER_CONTENT for that line is 49459., Parsed: 49459, prompt length: 3959
+Label: 31341, Predict:  Sure! The line you're looking for is "gentle-stylus" and its corresponding <REGISTER_CONTENT> is 31341., Parsed: 31341, prompt length: 3956
+Label: 23377, Predict:  Sure! The line you're looking for is "minor-ramie", and the corresponding <REGISTER_CONTENT> is 23377., Parsed: 23377, prompt length: 3980
+Label: 16194, Predict:  Sure! The line "sore-gong" is registered with the content <16194>., Parsed: 16194, prompt length: 3952
+Label: 10961, Predict:  Sure! The line you provided is:  line smoggy-mall: REGISTER_CONTENT is <10961>  So, the <REGISTER_CONTENT> in this line is 10961., Parsed: 10961, prompt length: 3992
+Label: 41868, Predict:  Sure! The REGISTER_CONTENT in line oceanic-haste is:  41868., Parsed: 41868, prompt length: 3986
+Label: 48442, Predict:  Sure! The REGISTER_CONTENT in line envious-quail is 48442., Parsed: 48442, prompt length: 4005
+Label: 49386, Predict:  Sure! The REGISTER_CONTENT in line dizzy-acoustics is:  49386., Parsed: 49386, prompt length: 3976
+Label: 44292, Predict:  Sure! The line yellow-slope has a <REGISTER_CONTENT> of 44292., Parsed: 44292, prompt length: 3983
+Label: 37933, Predict:  Sure! The REGISTER_CONTENT in line sour-trachoma is 37933., Parsed: 37933, prompt length: 4010
+Label: 29425, Predict:  Sure! The <REGISTER_CONTENT> in line standing-extent is 29425., Parsed: 29425, prompt length: 3982
+Label: 35812, Predict:  Sure! The REGISTER_CONTENT in line periodic-buffer is 35812., Parsed: 35812, prompt length: 3980
+Label: 24180, Predict:  Sure! The line you provided is:  line placid-secret: REGISTER_CONTENT is <24892>  So, the REGISTER_CONTENT for that line is 24892., Parsed: 24892, prompt length: 3963
+Label: 29246, Predict:  Sure! The line "panicky-tachometer" has a <REGISTER_CONTENT> of 29246., Parsed: 29246, prompt length: 3962
+Label: 12623, Predict:  Sure! The line you provided is:  "important-campanile: REGISTER_CONTENT is <12623>"  So, the <REGISTER_CONTENT> in that line is 12623., Parsed: 12623, prompt length: 3980
+Label: 41326, Predict:  Sure! The line you're looking for is "line encouraging-popcorn: REGISTER_CONTENT is <34865>". The number you're looking for is 34865., Parsed: 34865, prompt length: 3996
+Label: 4041, Predict:  Sure! The line "half-triumph" corresponds to the number 4041 in the register content., Parsed: 4041, prompt length: 3953
+Label: 8313, Predict:  Sure! The <REGISTER_CONTENT> in line yellow-gazelle is 8313., Parsed: 8313, prompt length: 3976
+Label: 38386, Predict:  Sure! The line dangerous-pinstripe has a <REGISTER_CONTENT> of 38386., Parsed: 38386, prompt length: 3951
+Label: 9945, Predict:  Sure! The line you're looking for is:  line momentous-archeology: REGISTER_CONTENT is <9945>  So, the <REGISTER_CONTENT> for that line is 9945., Parsed: 9945, prompt length: 3969
+Label: 41256, Predict:  Sure! The REGISTER_CONTENT in line sordid-pilot is:  <31357>, Parsed: 31357, prompt length: 3984
+
+Accuracy: 0.92
+Using conversation template: llama-2
+************ Finish testing 165 lines per prompt with average prompt length 3974.95, accuracy: 0.92 ************

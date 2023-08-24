@@ -8,7 +8,6 @@ import yaml
 import openai
 import tiktoken
 import random
-import requests
 import itertools
 import uuid
 
@@ -19,49 +18,11 @@ from transformers import logging
 logging.set_verbosity_error()
 
 from fastchat.model import load_model, get_conversation_template
+from fastchat.conversation import get_conv_template
 
 HERE = __file__
 REPO_DIR = os.path.join(os.path.dirname(HERE), "../")
 
-class APIModel:
-    api_url: str = None 
-    framework: str = None
-
-    def __init__(self, model_path, api_url="http://localhost:8000/generate", framework="vllm"):
-        self.tokenizer = transformers.AutoTokenizer.from_pretrained(model_path)
-        self.api_url = api_url
-        self.framework = framework
-
-    def generate(self, input_ids, max_new_tokens, **kwargs):
-        prompt = self.tokenizer.decode(input_ids[0])
-        if self.framework == "vllm":
-            headers = {"User-Agent": "Test Client"}
-            pload = {
-                "prompt": prompt,
-                "n": 1,
-                "use_beam_search": False,
-                "temperature": 0.0,
-                "max_tokens": max_new_tokens,
-                "stream": False,
-            }
-            response = requests.post(self.api_url, headers=headers, json=pload, stream=False)
-            text = json.loads(response.content)["text"]
-            return self.tokenizer(text).input_ids
-        elif self.framework == "lightllm":
-            headers = {'Content-Type': 'application/json'}
-            pload = {
-                'inputs': prompt,
-                "parameters": {
-                    'do_sample': False,
-                    'ignore_eos': False,
-                    'max_new_tokens': max_new_tokens,
-                }
-            }
-            response = requests.post(self.api_url, headers=headers, json=pload, stream=False)
-            text = response.json()['generated_text'][0]
-            return [input_ids[0].tolist() + self.tokenizer(text).input_ids]
-        else:
-            raise NotImplementedError
 
 def maybe_monkey_patch(args):
     if "longchat" in args.model_name_or_path:
@@ -88,11 +49,6 @@ def get_output_dir(args):
     return output_dir
 
 def longeval_load_model(args):
-
-    if args.framework is not None:
-        tokenizer = transformers.AutoTokenizer.from_pretrained(args.model_name_or_path)
-        return APIModel(args.model_name_or_path, framework=args.framework), tokenizer
-
     if "mosaicml/mpt-7b-storywriter" in args.model_name_or_path:
         # Adapt from: https://huggingface.co/mosaicml/mpt-7b-storywriter
         filter_string()
@@ -196,9 +152,7 @@ def test_topics_one_sample(model, tokenizer, test_case, output_file, idx, args):
         # Disable use_cache if using longchat models with flash attention
         use_cache = not ("longchat" in args.model_name_or_path and args.longchat_flash_attn)
 
-        device = getattr(model, "device", "cpu")
-
-        output = model.generate(input.input_ids.to(device), max_new_tokens=50, use_cache=use_cache)[0]
+        output = model.generate(input.input_ids.to(model.device), max_new_tokens=50, use_cache=use_cache)[0]
         output = output[prompt_length:]
         output = tokenizer.batch_decode([output], skip_special_tokens=True)
     
@@ -215,7 +169,7 @@ def test_topics_one_sample(model, tokenizer, test_case, output_file, idx, args):
     
     return None, prompt_length, summary
 
-def test_lines_one_sample(model, tokenizer, test_case, output_file, idx, args):
+def test_lines_one_sample(model, tokenizer, test_case, output_file, idx, args, test):
     prompt = test_case["prompt"]
     correct_line = test_case["correct_line"]
     expected_number = test_case["expected_number"]
@@ -240,6 +194,8 @@ def test_lines_one_sample(model, tokenizer, test_case, output_file, idx, args):
             conv = get_conversation_template("vicuna")
         else:
             conv = get_conversation_template(args.model_name_or_path)
+        if args.conv_template:
+            conv = get_conv_template(args.conv_template)
         print(f"Using conversation template: {conv.name}")
 
         if "mosaicml/mpt-30b-chat" in args.model_name_or_path:
@@ -254,10 +210,8 @@ def test_lines_one_sample(model, tokenizer, test_case, output_file, idx, args):
         
         # Disable use_cache if using longchat models with flash attention
         use_cache = not ("longchat" in args.model_name_or_path and args.longchat_flash_attn)
-
-        device = getattr(model, "device", "cpu")
         
-        output = model.generate(input.input_ids.to(device), max_new_tokens=100, use_cache=use_cache)[0]
+        output = model.generate(input.input_ids.to(model.device), max_new_tokens=100, use_cache=use_cache)[0]
         output = output[prompt_length:]
         output = tokenizer.batch_decode([output], skip_special_tokens=True)[0]
 
@@ -271,6 +225,10 @@ def test_lines_one_sample(model, tokenizer, test_case, output_file, idx, args):
 
     summary = f"Label: {expected_number}, Predict: {output}, Parsed: {response_number}, prompt length: {prompt_length}".replace('\n', ' ')
     print(summary)
+
+    if test:
+        return expected_number == response_number, prompt_length, summary
+
     if idx ==0:
         with open(output_file, "w") as f:
             f.write(summary)
@@ -426,19 +384,19 @@ def generate_topics_testcases(cfgs, output_dir):
             f.write("\n")
         f.close()
 
-def generate_lines_testcases(cfgs, output_dir):
+def generate_lines_testcases(cfgs, output_dir, dist):
     for n in cfgs["num_lines"]:
-        output_path = os.path.join(output_dir, f"{n}_lines.jsonl")
+        output_path = os.path.join(output_dir, f"{n}_lines_{dist}.jsonl")
         f = open(output_path, "w")
 
-        for i in range(cfgs["num_test_samples"]):          
+        for i in range(cfgs["num_test_samples"]):
             prompt_header = "Below is a record of lines I want you to remember. " + \
                             "Each line begins with 'line <line index>' and contains " + \
                             "a '<REGISTER_CONTENT>' at the end of the line as a numerical value. " + \
                             "For each line index, memorize its corresponding <REGISTER_CONTENT>. At " + \
                             "the end of the record, I will ask you to retrieve the corresponding " + \
                             "<REGISTER_CONTENT> of a certain line index. Now the record start:\n\n"
-    
+
             lines = []
 
             if cfgs["line_idx_opt"] == "LRT":
@@ -449,7 +407,10 @@ def generate_lines_testcases(cfgs, output_dir):
             else:
                 line_idxes = generate_line_index(n, cfgs["line_idx_opt"])
                 lines.extend([f"line {i}: REGISTER_CONTENT is <{random.randint(1, 50000)}>\n" for i in line_idxes])
-                random_num = random.randint(0, len(line_idxes)-1)
+                if dist == 'evenly':
+                    random_num = random.randint(0, len(line_idxes)-1)
+                else:
+                    random_num = random.randint(0, 9)
                 random_idx = line_idxes[random_num]
 
             expected_number, correct_line = retrieve_expected(lines, random_num)
